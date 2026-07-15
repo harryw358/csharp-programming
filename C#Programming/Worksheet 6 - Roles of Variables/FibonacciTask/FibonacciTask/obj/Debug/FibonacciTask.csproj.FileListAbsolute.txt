@@ -1,0 +1,14 @@
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\bin\Debug\FibonacciTask.exe.config
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\bin\Debug\FibonacciTask.exe
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\bin\Debug\FibonacciTask.pdb
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.exe
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.pdb
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\bin\Debug\FibonacciTask.exe.config
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\bin\Debug\FibonacciTask.exe
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\bin\Debug\FibonacciTask.pdb
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.exe
+D:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciTask\FibonacciTask\obj\Debug\FibonacciTask.pdb

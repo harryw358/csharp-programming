@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{E6F68A5C-7E38-46BF-A9FB-3844E9BB06FB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MiniProject-TicTacToe/Logic/TimeLimit.cs">
+    <Files>
+      <File FileName="MiniProject-TicTacToe/Program.cs" Line="1" Column="1" />
+      <File FileName="MiniProject-TicTacToe/Screens/GameScreen.cs" Line="1" Column="1" />
+      <File FileName="MiniProject-TicTacToe/Enum/Difficulty.cs" Line="7" Column="2" />
+      <File FileName="MiniProject-TicTacToe/Players/AI/TemplateAI.cs" Line="29" Column="28" />
+      <File FileName="MiniProject-TicTacToe/Players/AI/NormalAI.cs" Line="1" Column="1" />
+      <File FileName="MiniProject-TicTacToe/Players/AI/EasyAI.cs" Line="9" Column="31" />
+      <File FileName="MiniProject-TicTacToe/Players/AI/DifficultAI.cs" Line="1" Column="1" />
+      <File FileName="MiniProject-TicTacToe/Leaderboard/Leaderboard.cs" Line="105" Column="22" />
+      <File FileName="MiniProject-TicTacToe/Players/Player.cs" Line="84" Column="16" />
+      <File FileName="MiniProject-TicTacToe/Enum/CellState.cs" Line="1" Column="1" />
+      <File FileName="MiniProject-TicTacToe/Logic/TimeLimit.cs" Line="60" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniProject-TicTacToe" expanded="True">
+            <Node name="MiniProject-TicTacToe" expanded="True">
+              <Node name="Enum" expanded="True" />
+              <Node name="Leaderboard" expanded="True" />
+              <Node name="Logic" expanded="True">
+                <Node name="TimeLimit.cs" selected="True" />
+              </Node>
+              <Node name="Players" expanded="True">
+                <Node name="AI" expanded="True" />
+              </Node>
+              <Node name="Screens" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MiniProject-TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

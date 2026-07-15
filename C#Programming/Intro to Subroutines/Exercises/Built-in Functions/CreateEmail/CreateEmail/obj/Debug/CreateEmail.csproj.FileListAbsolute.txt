@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\bin\Debug\CreateEmail.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\bin\Debug\CreateEmail.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\bin\Debug\CreateEmail.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\obj\Debug\CreateEmail.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\obj\Debug\CreateEmail.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\obj\Debug\CreateEmail.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\CreateEmail\CreateEmail\obj\Debug\CreateEmail.pdb

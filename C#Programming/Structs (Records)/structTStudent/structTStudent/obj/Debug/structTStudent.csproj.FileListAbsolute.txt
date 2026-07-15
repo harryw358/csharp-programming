@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\bin\Debug\structTStudent.exe.config
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\bin\Debug\structTStudent.exe
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\bin\Debug\structTStudent.pdb
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\obj\Debug\structTStudent.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\obj\Debug\structTStudent.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\obj\Debug\structTStudent.exe
+D:\CS\C#Y1Programming\Structs (Records)\structTStudent\structTStudent\obj\Debug\structTStudent.pdb

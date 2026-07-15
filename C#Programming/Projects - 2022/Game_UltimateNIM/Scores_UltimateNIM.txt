@@ -1,0 +1,24 @@
+11/01/2022
+Player: 1
+Computer: 0
+
+12/01/2022
+Player: 1
+Computer: 0
+
+12/01/2022
+Player: 1
+Computer: 0
+
+12/01/2022
+Player: 1
+Computer: 0
+
+12/01/2022
+Player: 0
+Computer: 2
+
+12/01/2022
+Player: 2
+Computer: 0
+

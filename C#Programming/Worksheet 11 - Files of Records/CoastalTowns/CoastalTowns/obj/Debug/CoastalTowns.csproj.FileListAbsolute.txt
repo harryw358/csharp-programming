@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\bin\Debug\CoastalTowns.exe.config
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\bin\Debug\CoastalTowns.exe
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\bin\Debug\CoastalTowns.pdb
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\obj\Debug\CoastalTowns.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\obj\Debug\CoastalTowns.exe
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\obj\Debug\CoastalTowns.pdb
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\obj\Debug\CoastalTowns.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Worksheet 11 - Files of Records\CoastalTowns\CoastalTowns\obj\Debug\CoastalTowns.csproj.SuggestedBindingRedirects.cache

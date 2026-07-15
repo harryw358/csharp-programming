@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\bin\Debug\BasicNIM.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\bin\Debug\BasicNIM.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\bin\Debug\BasicNIM.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\obj\Debug\BasicNIM.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\obj\Debug\BasicNIM.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\obj\Debug\BasicNIM.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\BasicNIM\BasicNIM\obj\Debug\BasicNIM.pdb

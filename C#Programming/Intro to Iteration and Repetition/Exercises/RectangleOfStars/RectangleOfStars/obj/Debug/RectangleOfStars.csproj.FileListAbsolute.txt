@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\bin\Debug\RectangleOfStars.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\bin\Debug\RectangleOfStars.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\bin\Debug\RectangleOfStars.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.pdb

@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\bin\Debug\LengthOfSentence.exe.config
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\bin\Debug\LengthOfSentence.exe
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\bin\Debug\LengthOfSentence.pdb
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\obj\Debug\LengthOfSentence.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\obj\Debug\LengthOfSentence.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\obj\Debug\LengthOfSentence.exe
+D:\CS\C#Y1Programming\String Handling\Exercise2\LengthOfSentence\LengthOfSentence\obj\Debug\LengthOfSentence.pdb

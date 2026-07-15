@@ -1,0 +1,16 @@
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardConsoleApp/ChessBoardModel/bin/Debug/ChessBoardModel.dll
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardConsoleApp/ChessBoardModel/bin/Debug/ChessBoardModel.pdb
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardConsoleApp/ChessBoardModel/obj/Debug/ChessBoardModel.csproj.AssemblyReference.cache
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardConsoleApp/ChessBoardModel/obj/Debug/ChessBoardModel.csproj.CoreCompileInputs.cache
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardConsoleApp/ChessBoardModel/obj/Debug/ChessBoardModel.dll
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardConsoleApp/ChessBoardModel/obj/Debug/ChessBoardModel.pdb
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/bin/Debug/ChessBoardModel.dll
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/bin/Debug/ChessBoardModel.pdb
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.csproj.AssemblyReference.cache
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.csproj.CoreCompileInputs.cache
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.dll
+D:/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.pdb
+/Volumes/Flash Drive/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.csproj.AssemblyReference.cache
+/Volumes/Flash Drive/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.csproj.CoreCompileInputs.cache
+/Volumes/Flash Drive/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.dll
+/Volumes/Flash Drive/CS/C#Y1Programming/Graphical Work/ChessBoardGUIApplication/ChessBoardModel/obj/Debug/ChessBoardModel.pdb

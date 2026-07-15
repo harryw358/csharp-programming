@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\bin\Debug\SpamFilter.exe.config
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\bin\Debug\SpamFilter.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\bin\Debug\SpamFilter.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\obj\Debug\SpamFilter.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\obj\Debug\SpamFilter.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\obj\Debug\SpamFilter.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\SpamFilter\SpamFilter\obj\Debug\SpamFilter.pdb

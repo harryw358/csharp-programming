@@ -1,0 +1,10 @@
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\bin\Debug\BooksDatabase.exe.config
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\bin\Debug\BooksDatabase.exe
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\bin\Debug\BooksDatabase.pdb
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.frmTitles.resources
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.Properties.Resources.resources
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.exe
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.pdb

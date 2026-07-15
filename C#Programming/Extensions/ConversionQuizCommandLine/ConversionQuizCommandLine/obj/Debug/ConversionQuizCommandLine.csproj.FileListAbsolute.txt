@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\bin\Debug\ConversionQuizCommandLine.exe.config
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\bin\Debug\ConversionQuizCommandLine.exe
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\bin\Debug\ConversionQuizCommandLine.pdb
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\obj\Debug\ConversionQuizCommandLine.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\obj\Debug\ConversionQuizCommandLine.exe
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\obj\Debug\ConversionQuizCommandLine.pdb
+D:\CS\C#Y1Programming\Extensions\ConversionQuizCommandLine\ConversionQuizCommandLine\obj\Debug\ConversionQuizCommandLine.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\bin\Debug\Date.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\bin\Debug\Date.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\bin\Debug\Date.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\obj\Debug\Date.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\obj\Debug\Date.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\Built-in Functions\Date\Date\obj\Debug\Date.pdb

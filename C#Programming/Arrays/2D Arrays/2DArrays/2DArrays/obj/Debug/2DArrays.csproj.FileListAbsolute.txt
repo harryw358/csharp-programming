@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\bin\Debug\2DArrays.exe.config
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\bin\Debug\2DArrays.exe
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\bin\Debug\2DArrays.pdb
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\obj\Debug\2DArrays.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\obj\Debug\2DArrays.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\obj\Debug\2DArrays.exe
+D:\CS\C#Y1Programming\Arrays\2D Arrays\2DArrays\2DArrays\obj\Debug\2DArrays.pdb

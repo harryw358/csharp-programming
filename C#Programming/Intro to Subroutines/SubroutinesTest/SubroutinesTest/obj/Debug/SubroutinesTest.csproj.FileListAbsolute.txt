@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\bin\Debug\SubroutinesTest.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\bin\Debug\SubroutinesTest.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\bin\Debug\SubroutinesTest.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\obj\Debug\SubroutinesTest.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\obj\Debug\SubroutinesTest.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\obj\Debug\SubroutinesTest.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\obj\Debug\SubroutinesTest.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\SubroutinesTest\SubroutinesTest\obj\Debug\SubroutinesTest.csproj.SuggestedBindingRedirects.cache

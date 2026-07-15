@@ -1,0 +1,10 @@
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\bin\Debug\GraphicsIntro.exe.config
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\bin\Debug\GraphicsIntro.exe
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\bin\Debug\GraphicsIntro.pdb
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.Form1.resources
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.Properties.Resources.resources
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.exe
+D:\CS\C#Y1Programming\Graphical Work\GraphicsIntro\GraphicsIntro\obj\Debug\GraphicsIntro.pdb

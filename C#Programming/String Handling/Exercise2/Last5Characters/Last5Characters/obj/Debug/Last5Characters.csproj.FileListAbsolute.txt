@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\bin\Debug\Last5Characters.exe.config
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\bin\Debug\Last5Characters.exe
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\bin\Debug\Last5Characters.pdb
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\obj\Debug\Last5Characters.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\obj\Debug\Last5Characters.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\obj\Debug\Last5Characters.exe
+D:\CS\C#Y1Programming\String Handling\Exercise2\Last5Characters\Last5Characters\obj\Debug\Last5Characters.pdb

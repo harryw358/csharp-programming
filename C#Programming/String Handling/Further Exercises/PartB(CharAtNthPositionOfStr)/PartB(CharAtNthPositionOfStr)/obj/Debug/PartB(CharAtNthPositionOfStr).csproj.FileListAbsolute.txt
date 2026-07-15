@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\bin\Debug\PartB(CharAtNthPositionOfStr).exe.config
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\bin\Debug\PartB(CharAtNthPositionOfStr).exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\bin\Debug\PartB(CharAtNthPositionOfStr).pdb
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\obj\Debug\PartB(CharAtNthPositionOfStr).csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\obj\Debug\PartB(CharAtNthPositionOfStr).csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\obj\Debug\PartB(CharAtNthPositionOfStr).exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartB(CharAtNthPositionOfStr)\PartB(CharAtNthPositionOfStr)\obj\Debug\PartB(CharAtNthPositionOfStr).pdb

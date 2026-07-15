@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\bin\Debug\TempConversion.exe.config
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\bin\Debug\TempConversion.exe
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\bin\Debug\TempConversion.pdb
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\obj\Debug\TempConversion.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\obj\Debug\TempConversion.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\obj\Debug\TempConversion.exe
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\TempConversion\TempConversion\obj\Debug\TempConversion.pdb

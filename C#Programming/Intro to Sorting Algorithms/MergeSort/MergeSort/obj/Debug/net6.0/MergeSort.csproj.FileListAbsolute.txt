@@ -1,0 +1,30 @@
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.csproj.AssemblyReference.cache
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.AssemblyInfoInputs.cache
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.AssemblyInfo.cs
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.csproj.CoreCompileInputs.cache
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.exe
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.deps.json
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.runtimeconfig.json
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.dll
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.pdb
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.dll
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/refint/MergeSort.dll
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.pdb
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.genruntimeconfig.cache
+D:/CS/C#Y1Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/ref/MergeSort.dll
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.deps.json
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.runtimeconfig.json
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.dll
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/bin/Debug/net6.0/MergeSort.pdb
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.csproj.AssemblyReference.cache
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.AssemblyInfoInputs.cache
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.AssemblyInfo.cs
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.csproj.CoreCompileInputs.cache
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.dll
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/refint/MergeSort.dll
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.pdb
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/MergeSort.genruntimeconfig.cache
+/Volumes/Flash Drive/CS/C#Programming/Intro to Sorting Algorithms/MergeSort/MergeSort/obj/Debug/net6.0/ref/MergeSort.dll

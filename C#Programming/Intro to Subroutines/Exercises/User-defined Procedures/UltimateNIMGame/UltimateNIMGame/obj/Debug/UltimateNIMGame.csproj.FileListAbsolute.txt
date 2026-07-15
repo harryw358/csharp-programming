@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\bin\Debug\UltimateNIMGame.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\bin\Debug\UltimateNIMGame.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\bin\Debug\UltimateNIMGame.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\obj\Debug\UltimateNIMGame.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\obj\Debug\UltimateNIMGame.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\obj\Debug\UltimateNIMGame.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\UltimateNIMGame\UltimateNIMGame\obj\Debug\UltimateNIMGame.pdb

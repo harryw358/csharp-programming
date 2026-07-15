@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\bin\Debug\WarriorWarProject.exe.config
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\bin\Debug\WarriorWarProject.exe
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\bin\Debug\WarriorWarProject.pdb
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\obj\Debug\WarriorWarProject.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\obj\Debug\WarriorWarProject.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\obj\Debug\WarriorWarProject.exe
+D:\CS\C#Y1Programming\Graphical Work\WarriorWarProject\WarriorWarProject\obj\Debug\WarriorWarProject.pdb

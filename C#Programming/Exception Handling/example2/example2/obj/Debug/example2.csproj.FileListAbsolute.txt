@@ -1,0 +1,6 @@
+D:\CS\C#Y1Programming\Exception Handling\example2\example2\bin\Debug\example2.exe.config
+D:\CS\C#Y1Programming\Exception Handling\example2\example2\bin\Debug\example2.exe
+D:\CS\C#Y1Programming\Exception Handling\example2\example2\bin\Debug\example2.pdb
+D:\CS\C#Y1Programming\Exception Handling\example2\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Exception Handling\example2\example2\obj\Debug\example2.exe
+D:\CS\C#Y1Programming\Exception Handling\example2\example2\obj\Debug\example2.pdb

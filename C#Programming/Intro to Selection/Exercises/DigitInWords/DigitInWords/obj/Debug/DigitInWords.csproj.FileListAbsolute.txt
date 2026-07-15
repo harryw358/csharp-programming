@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\bin\Debug\DigitInWords.exe.config
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\bin\Debug\DigitInWords.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\bin\Debug\DigitInWords.pdb
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\obj\Debug\DigitInWords.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\obj\Debug\DigitInWords.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\obj\Debug\DigitInWords.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\DigitInWords\DigitInWords\obj\Debug\DigitInWords.pdb

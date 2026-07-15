@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Temp\Temp\bin\Debug\Temp.exe.config
+D:\CS\C#Y1Programming\Temp\Temp\bin\Debug\Temp.exe
+D:\CS\C#Y1Programming\Temp\Temp\bin\Debug\Temp.pdb
+D:\CS\C#Y1Programming\Temp\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Temp\Temp\obj\Debug\Temp.exe
+D:\CS\C#Y1Programming\Temp\Temp\obj\Debug\Temp.pdb

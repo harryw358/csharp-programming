@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\bin\Debug\ClassAssignments.exe.config
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\bin\Debug\ClassAssignments.exe
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\bin\Debug\ClassAssignments.pdb
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\obj\Debug\ClassAssignments.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\obj\Debug\ClassAssignments.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\obj\Debug\ClassAssignments.exe
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\obj\Debug\ClassAssignments.pdb
+D:\CS\C#Y1Programming\Arrays\Exercises\ClassAssignments\ClassAssignments\obj\Debug\ClassAssignments.csproj.SuggestedBindingRedirects.cache

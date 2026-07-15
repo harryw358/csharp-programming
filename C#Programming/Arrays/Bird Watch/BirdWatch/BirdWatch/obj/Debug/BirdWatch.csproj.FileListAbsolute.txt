@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\bin\Debug\BirdWatch.exe.config
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\bin\Debug\BirdWatch.exe
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\bin\Debug\BirdWatch.pdb
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\obj\Debug\BirdWatch.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\obj\Debug\BirdWatch.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\obj\Debug\BirdWatch.exe
+D:\CS\C#Y1Programming\Arrays\BirdWatch\BirdWatch\obj\Debug\BirdWatch.pdb

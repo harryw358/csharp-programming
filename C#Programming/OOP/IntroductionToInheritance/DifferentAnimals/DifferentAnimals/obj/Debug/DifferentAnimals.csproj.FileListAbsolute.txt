@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\obj\Debug\DifferentAnimals.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\bin\Debug\DifferentAnimals.exe.config
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\bin\Debug\DifferentAnimals.exe
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\bin\Debug\DifferentAnimals.pdb
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\obj\Debug\DifferentAnimals.exe
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\obj\Debug\DifferentAnimals.pdb
+D:\CS\C#Y1Programming\OOP\IntroductionToInheritance\DifferentAnimals\DifferentAnimals\obj\Debug\DifferentAnimals.csprojAssemblyReference.cache

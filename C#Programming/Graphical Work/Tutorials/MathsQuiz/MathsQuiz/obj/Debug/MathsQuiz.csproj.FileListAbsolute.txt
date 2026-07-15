@@ -1,0 +1,10 @@
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.exe.config
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.exe
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.pdb
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.Form1.resources
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.Properties.Resources.resources
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.exe
+D:\CS\C#Y1Programming\Graphical Work\Tutorials\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.pdb

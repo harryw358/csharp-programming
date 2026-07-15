@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\bin\Debug\MorseCode.exe.config
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\obj\Debug\MorseCode.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\obj\Debug\MorseCode.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.SuggestedBindingRedirects.cache

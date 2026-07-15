@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\bin\Debug\1TCar.exe.config
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\bin\Debug\1TCar.exe
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\bin\Debug\1TCar.pdb
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\obj\Debug\1TCar.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\obj\Debug\1TCar.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\obj\Debug\1TCar.exe
+D:\CS\C#Y1Programming\Arrays\Exercises\1TCar\1TCar\obj\Debug\1TCar.pdb

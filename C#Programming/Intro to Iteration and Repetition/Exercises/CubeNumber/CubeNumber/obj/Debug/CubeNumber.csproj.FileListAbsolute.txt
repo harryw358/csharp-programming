@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\bin\Debug\CubeNumber.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\bin\Debug\CubeNumber.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\bin\Debug\CubeNumber.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\obj\Debug\CubeNumber.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\obj\Debug\CubeNumber.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\obj\Debug\CubeNumber.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\CubeNumber\CubeNumber\obj\Debug\CubeNumber.pdb

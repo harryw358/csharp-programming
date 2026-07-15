@@ -1,0 +1,14 @@
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\bin\Debug\ChessBoardGUIApplication.exe.config
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\bin\Debug\ChessBoardGUIApplication.exe
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\bin\Debug\ChessBoardGUIApplication.pdb
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\bin\Debug\ChessBoardModel.dll
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\bin\Debug\ChessBoardModel.pdb
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.Form1.resources
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.Properties.Resources.resources
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.csproj.CopyComplete
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.exe
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.pdb
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardGUIApplication\ChessBoardGUIApplication\obj\Debug\ChessBoardGUIApplication.csproj.SuggestedBindingRedirects.cache

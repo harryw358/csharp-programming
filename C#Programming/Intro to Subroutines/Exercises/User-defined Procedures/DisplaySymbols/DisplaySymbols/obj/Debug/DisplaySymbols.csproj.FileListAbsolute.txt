@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\bin\Debug\DisplaySymbols.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\bin\Debug\DisplaySymbols.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\bin\Debug\DisplaySymbols.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\obj\Debug\DisplaySymbols.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\obj\Debug\DisplaySymbols.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\obj\Debug\DisplaySymbols.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Exercises\User-defined Procedures\DisplaySymbols\DisplaySymbols\obj\Debug\DisplaySymbols.pdb

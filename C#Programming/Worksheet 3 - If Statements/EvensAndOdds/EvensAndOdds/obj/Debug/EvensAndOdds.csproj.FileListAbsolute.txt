@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\bin\Debug\EvensAndOdds.exe.config
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\bin\Debug\EvensAndOdds.exe
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\bin\Debug\EvensAndOdds.pdb
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.exe
+E:\CS\C#Y1Programming\Worksheet 3 - If Statements\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.pdb

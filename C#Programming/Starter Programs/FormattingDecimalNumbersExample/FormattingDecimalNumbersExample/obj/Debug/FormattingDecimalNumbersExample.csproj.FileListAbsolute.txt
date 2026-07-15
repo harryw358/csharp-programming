@@ -1,0 +1,7 @@
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\obj\Debug\FormattingDecimalNumbersExample.csprojAssemblyReference.cache
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\obj\Debug\FormattingDecimalNumbersExample.csproj.CoreCompileInputs.cache
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\bin\Debug\FormattingDecimalNumbersExample.exe.config
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\bin\Debug\FormattingDecimalNumbersExample.exe
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\bin\Debug\FormattingDecimalNumbersExample.pdb
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\obj\Debug\FormattingDecimalNumbersExample.exe
+\\studata-sr01\studentdata_fe\2330438\My Documents\C#Y1Programming\FormattingDecimalNumbersExample\FormattingDecimalNumbersExample\obj\Debug\FormattingDecimalNumbersExample.pdb

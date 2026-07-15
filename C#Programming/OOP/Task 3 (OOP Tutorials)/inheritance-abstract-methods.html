@@ -1,0 +1,410 @@
+<html> 
+<head> 
+	<title>Introduction to Object Oriented Programming (C#)</title>
+	<script src="lightbox/js/jquery-1.10.2.min.js"></script>
+	<script src="lightbox/js/lightbox-2.6.min.js"></script>
+	
+	<link href="style.css" rel="stylesheet" />
+	<link href="lightbox/css/lightbox.css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Comfortaa:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Sintony:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<!-- .container start -->
+<div class="container">
+	
+	<!-- .banner start -->
+	<div class="banner">
+		<h1>Introduction to Object Oriented Programming<br /><span style="color:#FFF">C# Edition</span></h1>
+	<ul id="nav">		
+		<li><a href="index.html">1. OOP Fundamentals</a></li>
+		<li><a href="encapsulation.html">2. Encapsulation</a></li>
+		<li><a href="inheritance-abstract-methods.html" class="selected">3. Inheritance & Abstract Methods</a></li>
+		<li><a href="polymorphism.html">4. Polymorphism</a></li>
+		<li class="end"><a href="class-relationships.html">5. Class Relationships</a></li>		
+		<li><a href="projects.html">Programming Projects</a></li>		
+		<li class="end"><a href="glossary.html">Glossary of Terms</a></li>
+
+
+	</ul>
+	</div>
+	
+	<!-- .banner end -->	
+
+	
+	<!-- .topic_header start -->
+	<div class="topic_header">
+	<table style="background-color:#ccf2ff"><tr><td><h1><strong>3. Inheritance & Abstract Methods</strong></h1></td></tr></table>
+		
+	</div>
+	<!-- .topic_header end -->
+	
+
+
+	
+	<!-- .topic_info start -->		
+	<div class="topic_info">
+	
+	<div class="quicklinks">Jump to: <a href="#3-1">Inheritance</a> | <a href="#3-2">Abstract classes</a> | <a href="#3-3">Questions</a> | <a href="#3-4">Task 3</a></div>
+	
+	<!-- START specTable -->
+
+	<table class="specTable">		
+		<th class="specTableHeader">In this chapter you will learn:</th>
+		<tr><td>
+			<ul style="list-type:square">
+				<li>What inheritance is and what parent and child classes are</li>
+				<li>What super methods are</li>
+				<li>What interfaces and abstract methods are and how they are used</li>
+				<li>How to create object-oriented programs with inheritance</li>				
+			</ul>
+		</td></tr>
+	</table>	
+
+<!-- END specTable-->
+	
+
+<a name="3-1"><h1>Inheritance</h1></a>
+	
+		<p>When creating classes, you may begin to realise that some classes have certain similarities that lead to lots of code being duplicated across classes. For example, in Task 2, the Manager, Receptionist, Cleaner and Customer classes all have the same name attribute:</p>
+		
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="11">
+class Customer
+	private roomBooking
+	private name //Customer has a ‘name’ attribute
+	...
+endclass
+
+class Receptionist
+	private name //Receptionist has a ‘name’ attribute
+	...
+endclass
+</textarea></div>
+
+<p>This is not too much of an issue when there are very few similarities, but as soon as classes begin to have multiple identical attributes, or even identical methods, a lot of time can be spent copying existing code from one class to another. Object-oriented programming solves this dilemma through <strong>inheritance</strong>.</p>
+
+<center><img src="images/3-1.png" style="border:none;"></center>
+
+
+<p>You can find examples of inheritance everywhere. The above image shows the inheritance relationships between different types of computer. Desktops, smartphones and laptops are all specific types of computer, and iPhones and Android phones are both specific types of smartphone. Inheritance only works one way; for example, if you come up with a definition for a smartphone, then that definition will also work for an Android phone, but it won’t work for every computer.</p>
+
+<p>Simply put, inheritance refers to when one class copies the characteristics of another class, but can then add to or alter that class’s methods or attributes. This means that a generic class can be created which defines all of the basic characteristics of a class, as shown below:</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="12">
+class Bird
+	protected featherColour
+
+	public procedure new(colour)
+		featherColour = colour
+	endprocedure
+
+	public procedure fly()
+		print("This bird is flying")
+	endprocedure
+endclass
+</textarea></div>
+
+<p>Note the use of the <strong>protected</strong> keyword on the featherColour attribute. If an attribute or method is declared as protected, it can only be accessed from within that class or from a class that inherits from that class. This Bird class defines the attributes and abilities that every bird has. However, we may want to define a more specific class that builds on this one:</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="6">
+class SwimmingBird inherits Bird //Inherits the attributes and methods of Bird
+	public procedure swim()
+		print("This bird is swimming")
+	endprocedure
+endclass
+</textarea></div>
+
+<p><small>Note that this class has no defined constructor. It uses the same constructor as its parent class and so doesn't need to redefine it.</small></p>
+
+<p>A class that inherits from another class is known as a <strong>child</strong> class, and the class that it inherits from is known as its <strong>parent</strong> class. In this case, the class SwimmingBird is a child of the parent class Bird, and, as a result, the SwimmingBird class keeps all of the characteristics defined in the Bird class, but has an extra swim method. In the following code:</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="10">
+public procedure main()
+	bird1 = new Bird("Brown")
+	bird2 = new SwimmingBird("Brown")
+	
+bird1.fly()
+bird2.fly() //SwimmingBirds can use the ‘fly’ method defined in Bird
+bird2.swim()
+bird1.swim() //Birds cannot use the ‘swim’ method defined in SwimmingBird
+endprocedure
+</textarea></div>
+
+<p>bird1.fly() and bird2.fly() will both print ‘This bird is flying’ because although the SwimmingBird class does not define the fly method, it can still use it because it is defined in its parent class. While bird2.swim() will print ‘This bird is swimming’, bird1.swim() will cause an error, as the parent class Bird does not have access to the methods defined in the child class SwimmingBird.</p>
+
+<p>Inheritance is not just used to add to a parent class, but can also be used to change how methods defined in the parent class act in the child class:</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="7">
+class Flamingo inherits SwimmingBird
+	public procedure new()
+		super.new("Pink") //Calls the ‘new’ method from the SwimmingBird class
+		print("New flamingo created")
+	endprocedure
+endclass
+</textarea></div>
+
+<p><small>A class can inherit from a class that inherits from yet another class</small></p>
+
+<p>The Flamingo class inherits from the SwimmingBird class, but defines a new constructor. This means that when a Flamingo object is created, the inherited Bird constructor will be replaced by the new Flamingo constructor. </p>
+<p>The Flamingo constructor uses what is known as a super method. Super methods are calls to methods in a class’s parent class. So, in the previous case, super.new() calls the new method of the SwimmingBird class (which in this case is just the new method from the Bird class).</p>
+
+<p>A parent class can have multiple child classes that inherit it. So, along with the above classes, we can define:</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="6">
+class FlightlessBird inherits Bird //SwimmingBird and FlightlessBird both inherit Bird 
+	public procedure fly()
+		print("This bird cannot fly")
+	endprocedure
+endclass
+</textarea></div>
+
+<p>Any number of child classes can expand on the same parent class in different ways.</p>
+
+
+
+<a name="3-2"><h1>Abstract classes</h1>
+		
+<p>While a class can have multiple child classes without causing any problems, if a class tries to inherit from more than one class (known as <strong>multiple inheritance</strong>) there can be issues regarding what characteristics that class should inherit. For example, if a class tried to inherit from multiple classes as follows:</p>
+		
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="18">
+class A
+	public procedure method()
+		print("Do this")
+	endprocedure
+endclass
+
+class B inherits A //Inherits ‘method’ from A
+endclass
+
+class C inherits A //Inherits ‘method’ from A
+	public procedure method() //Changes ‘method’
+		print("Do that")
+	endprocedure
+endclass
+
+class D inherits B, C //Class D inherits ‘method’ from B and C
+endclass
+</textarea></div>
+
+<p>It is not clear if the result of method() in class D should be ‘Do this’ or ‘Do that’. Some programming languages won’t allow a class to inherit multiple classes, while others try to solve this issue by defining a priority for each parent class depending on how the classes are arranged (but this can be confusing or unintuitive to work with).</p>
+
+<p>One way to get around the issues with multiple inheritance is to use <strong>abstract classes</strong>. An abstract class is a class that declares methods without specifying how they work; these methods are known as <strong>abstract methods</strong>. For example, the following class would be an abstract class:</p>
+	
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="9">
+class AbstractClass
+	public procedure concreteMethod() //This method is not abstract
+		print("Result")
+	endprocedure
+
+	public abstract procedure abstractMethod(number) //This method is abstract
+	endprocedure
+endclass
+</textarea></div>
+
+<p>An abstract method only defines the method&rsquo;s name and parameters (and the data types of the method and parameters in some programming languages) of the method. Any class that contains an abstract method is an abstract class, but an abstract class can contain non-abstract methods.</p>
+
+<p>You cannot create an object from an abstract class, and any class that inherits from an abstract class must define all of its parent class' abstract methods using the specified parameters for each method. If the child class leaves any of the abstract methods undefined, then it will be an abstract class itself.</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="6">
+class ConcreteClass inherits AbstractClass
+	public procedure abstractMethod(number) //This method is no longer abstract
+		print(number)
+	endprocedure
+endclass
+</textarea></div>
+
+<p>ConcreteClass defines the abstract method in AbstractClass, and as it has no undefined abstract methods remaining, ConcreteClass objects can be created.</p>
+
+<p>Abstract methods are useful because they tell the programmer what functionality a class needs to implement without defining a generic method in the parent class that may not be useful. For example, if we had a parent class Dog, with child classes for different breeds of dog, there are some functions that each child class may need to implement, although they may all implement it differently.</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="11">
+class Dog
+	public abstract procedure whatBreed()
+	endprocedure
+endclass
+
+class Labrador inherits Dog
+	public procedure whatBreed()
+		print("This dog is a Labrador")
+	endprocedure
+endclass
+</textarea></div>
+
+<p>A generic version of the whatBreed method could be defined in the Dog class, but every child that inherits from Dog would need to replace the method anyway, so declaring it as an abstract method in Dog is more suitable. Abstract methods should be used when all child classes require a certain method but with differing implementation.</p>
+
+<p>Some languages refer to classes that only contain abstract methods as interfaces, and allow classes to ‘inherit’ multiple interfaces but only one actual class. This avoids the issues with multiple inheritance as interfaces do not have implementations that can cause conflicts with each other.</p>
+
+
+<div class="context">
+
+<h3 style="color:gold">C# Note:</h3>
+
+<p>C# does not allow for multiple inheritance, so the following would not be a valid class declaration:</p>
+
+<textarea class="python" rows="3">
+public class First : Second, Third {
+	…
+</textarea>
+
+<p>In C#, abstract methods cannot be given any functionality, and must be declared as statements with the abstract keyword:</p>
+
+<textarea class="python" rows="5">
+public class Abstract {
+	…
+	public abstract void method();
+}	
+</textarea>
+
+<p>method has been declared as an abstract method with return type void and no parameters. This means that any child classes will need to implement method in order to be instantiated.</p>
+
+<p>To implement an abstract method, the 'override' keyword must be used as follows:</p>
+
+<textarea class="python" rows="7">
+public class Concrete : Abstract {
+	…
+	override public void method() {
+		…
+	}
+}
+</textarea>
+
+<p>Note that the non-abstract method must have the same return type and take the same parameters as the abstract method that it is implementing.</p>
+
+<p>If parent and child classes are declared as follows:</p>
+
+<textarea class="python" rows="16">
+public class Parent {
+	private int a;
+	protected int b;
+
+	public Parent() {
+		this.a = 1;
+		this.b = 2;
+	}
+}
+
+public class Child : Parent {
+	public Child() : base(){
+		this.b++;
+	}
+}
+</textarea>
+
+<p>... the Child constructor will use : base() to run the constructor method of its parent class, and then increases the value of b by 1. When a Child object is created, it will not have an attribute a, as a is a private attribute and so not inherited, and it will have an attribute b with a value of 3.</p>
+</div>
+
+
+
+<div class="activity">	
+
+	<a name="3-3"><h1><strong>Questions</strong></h1>	
+	
+	<table><tr>
+	<th>Q1</th>
+	<td>Define the term inheritance. (1 mark)</td>
+	</tr>
+	
+	<tr>
+	<th>Q2</th>
+	<td>Draw a diagram to show inheritance relationships between at least three things. (2 marks)</td>
+	</tr>
+	
+	<tr>
+	<th>Q3</th>
+	<td>Use the pseudocode below to answer the questions that follow:<br /><br />
+	
+	<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="18" style="width:100%">
+class Guitar
+	private noOfStrings = 6
+
+	public procedure holdFret()
+		...
+	endprocedure
+
+	public procedure strum()
+		...
+	endprocedure
+endclass
+
+class ElectricGuitar inherits Guitar
+	public procedure adjustVolume()
+		...
+	endprocedure
+endclass
+</textarea></div>
+
+	<ol type="a">
+		<li>Identify the parent class and the child class. (1 mark)</li>
+		<li>Identify the attributes and methods that ElectricGuitar inherits from Guitar.	(3 marks)</li>
+	</ol>
+	
+	</td>	
+	</tr>
+	
+	<tr>
+	<th>Q4</th>
+	<td>Describe what happens when a class calls a super method. (1 marks)</td>
+	</tr>
+	
+	<tr>
+	<th>Q5</th>
+	<td>Explain the issue caused by allowing multiple inheritance. (2 marks)</td>	
+	</tr>
+	
+	<tr>
+	<th>Q6</th>
+	<td>Define the term abstract method, and explain when you might use an abstract method. (2 marks)</td>	
+	</tr>
+
+	</table>	
+	
+	</div>
+	
+	<div class="activity" style="background:#097392">	
+	
+	<a name="3-4"><h1 style="color:#FFF000"><strong>Task 3</strong></h1>	
+
+	<table><tr><td>
+
+	<p>This activity uses the following files:
+		<ul>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Program.cs" target="_blank">Program.cs</a></strong></li>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Bat.cs" target="_blank">Bat.cs</a></strong></li>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Gorilla.cs" target="_blank">Gorilla.cs</a></strong></li>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Otter.cs" target="_blank">Otter.cs</a></strong></li>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Snake.cs" target="_blank">Snake.cs</a></strong></li>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Tortoise.cs" target="_blank">Tortoise.cs</a></strong></li>
+		<li><strong><a href="code/TaskCode/Task3/Skeleton/Turtle.cs" target="_blank">Turtle.cs</a></strong></li>
+		</ul>
+
+	<p>The Task 3 skeleton code contains classes for various animals, describing what attributes they have and what actions they can do.</p>
+	<p>Recreate the Task 3 skeleton code so that it keeps the same functionality but adds three additional classes: Animal, Reptile and Mammal. The Animal class should include abstract methods.</p>
+	<p>Classes should inherit from other classes as appropriate, and as much functionality as possible should be moved to the three new classes. The main method should not be altered.	(17 marks)</p>
+
+	
+	</td></tr></table>	
+	
+	</div>	
+	
+<!--activity end-->
+		
+
+
+	
+	
+	<div class="footer">&copy; <a href="http://zigzageducation.co.uk">ZigZag Education 2019</a></div>
+		
+	
+	<!-- .topic_info end -->		
+
+	</div>
+<!-- .container end -->
+
+
+</body>
+</html>
+
+

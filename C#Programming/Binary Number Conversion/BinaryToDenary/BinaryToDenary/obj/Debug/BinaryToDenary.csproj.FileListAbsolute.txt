@@ -1,0 +1,14 @@
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\bin\Debug\BinaryToDenary.exe.config
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\bin\Debug\BinaryToDenary.exe
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\bin\Debug\BinaryToDenary.pdb
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.exe
+E:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.pdb
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\bin\Debug\BinaryToDenary.exe.config
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\bin\Debug\BinaryToDenary.exe
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\bin\Debug\BinaryToDenary.pdb
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.exe
+D:\CS\C#Y1Programming\Binary Number Conversion\BinaryToDenary\BinaryToDenary\obj\Debug\BinaryToDenary.pdb

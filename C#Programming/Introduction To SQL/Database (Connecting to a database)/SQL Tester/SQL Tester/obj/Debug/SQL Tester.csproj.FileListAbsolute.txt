@@ -1,0 +1,11 @@
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\bin\Debug\SQL Tester.exe.config
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\bin\Debug\SQL Tester.exe
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\bin\Debug\SQL Tester.pdb
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL Tester.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL Tester.csproj.SuggestedBindingRedirects.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL_Tester.frmTester.resources
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL_Tester.Properties.Resources.resources
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL Tester.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL Tester.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL Tester.exe
+D:\CS\C#Y1Programming\Introduction To SQL\Database (Connecting to a database)\SQL Tester\SQL Tester\obj\Debug\SQL Tester.pdb

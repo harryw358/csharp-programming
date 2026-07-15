@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\bin\Debug\StorageCases.exe.config
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\bin\Debug\StorageCases.exe
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\bin\Debug\StorageCases.pdb
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\obj\Debug\StorageCases.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\obj\Debug\StorageCases.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\obj\Debug\StorageCases.exe
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\StorageCases\StorageCases\obj\Debug\StorageCases.pdb

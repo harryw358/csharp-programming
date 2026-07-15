@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a60c2b9-18fe-49b6-a974-a4588b03d3c9": {
+      "ProjectGuid": "3a60c2b9-18fe-49b6-a974-a4588b03d3c9",
+      "DisplayName": "MessageEncryption",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

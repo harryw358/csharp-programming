@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\ReadFile\ReadFile\obj\Debug\ReadFile.pdb

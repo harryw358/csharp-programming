@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\obj\Debug\1TwoNumbersInAscendingOrder.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\obj\Debug\1TwoNumbersInAscendingOrder.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\bin\Debug\1TwoNumbersInAscendingOrder.exe.config
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\bin\Debug\1TwoNumbersInAscendingOrder.exe
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\bin\Debug\1TwoNumbersInAscendingOrder.pdb
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\obj\Debug\1TwoNumbersInAscendingOrder.exe
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\1TwoNumbersInAscendingOrder\1TwoNumbersInAscendingOrder\obj\Debug\1TwoNumbersInAscendingOrder.pdb

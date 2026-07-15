@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B0371275-275B-458A-A792-E732A1EEA22E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChessBoardGUIApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessBoardGUIApplication/Form1.cs">
+    <Files>
+      <File FileName="ChessBoardGUIApplication/Form1.cs" Line="9" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessBoardGUIApplication" expanded="True">
+            <Node name="ChessBoardGUIApplication" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+            <Node name="ChessBoardModel" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_UltimateNIM", "Game_UltimateNIM\Game_UltimateNIM.csproj", "{A869D793-C2A1-4A76-9E28-DF6A98B99D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A869D793-C2A1-4A76-9E28-DF6A98B99D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A869D793-C2A1-4A76-9E28-DF6A98B99D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A869D793-C2A1-4A76-9E28-DF6A98B99D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A869D793-C2A1-4A76-9E28-DF6A98B99D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5802B6-53DA-4FC4-AF19-687815B6DA85}
+	EndGlobalSection
+EndGlobal

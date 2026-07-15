@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\bin\Debug\PracticalTest.exe.config
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\bin\Debug\PracticalTest.exe
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\bin\Debug\PracticalTest.pdb
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\obj\Debug\PracticalTest.exe
+D:\CS\C#Y1Programming\OOP\OOP Practical Test\PracticalTest\PracticalTest\obj\Debug\PracticalTest.pdb

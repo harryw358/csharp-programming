@@ -1,0 +1,11 @@
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\bin\Debug\FittingsStacks.exe.config
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\bin\Debug\FittingsStacks.exe
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\bin\Debug\FittingsStacks.pdb
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.csproj.SuggestedBindingRedirects.cache
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.frmFittings.resources
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.Properties.Resources.resources
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.exe
+D:\CS\C#Y1Programming\Intro to Stacks\FittingsStacks\FittingsStacks\obj\Debug\FittingsStacks.pdb

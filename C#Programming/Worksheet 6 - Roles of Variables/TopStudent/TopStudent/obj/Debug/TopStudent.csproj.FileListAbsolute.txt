@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\bin\Debug\TopStudent.exe.config
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\bin\Debug\TopStudent.exe
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\bin\Debug\TopStudent.pdb
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\obj\Debug\TopStudent.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\obj\Debug\TopStudent.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\obj\Debug\TopStudent.exe
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\TopStudent\TopStudent\obj\Debug\TopStudent.pdb

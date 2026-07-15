@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\obj\Debug\ProjectCheckDigit.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\bin\Debug\ProjectCheckDigit.exe.config
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\bin\Debug\ProjectCheckDigit.exe
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\bin\Debug\ProjectCheckDigit.pdb
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\obj\Debug\ProjectCheckDigit.exe
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\obj\Debug\ProjectCheckDigit.pdb
+D:\CS\C#Y1Programming\Timed Assessments\Check digit\ProjectCheckDigit\ProjectCheckDigit\obj\Debug\ProjectCheckDigit.csprojAssemblyReference.cache

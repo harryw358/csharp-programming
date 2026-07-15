@@ -1,0 +1,14 @@
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.csproj.AssemblyReference.cache
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.csproj.CoreCompileInputs.cache
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\bin\Debug\TotalNumberOfFencePanels.exe.config
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\bin\Debug\TotalNumberOfFencePanels.exe
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\bin\Debug\TotalNumberOfFencePanels.pdb
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.exe
+C:\Users\actua\Documents\C# Exercises\Basics\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.pdb
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\bin\Debug\TotalNumberOfFencePanels.exe.config
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\bin\Debug\TotalNumberOfFencePanels.exe
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\bin\Debug\TotalNumberOfFencePanels.pdb
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.exe
+D:\CS\C#Y1Programming\Algorithm Design\TotalNumberOfFencePanels\TotalNumberOfFencePanels\obj\Debug\TotalNumberOfFencePanels.pdb

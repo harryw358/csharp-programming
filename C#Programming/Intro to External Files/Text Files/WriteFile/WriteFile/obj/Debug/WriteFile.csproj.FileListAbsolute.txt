@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\bin\Debug\WriteFile.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\bin\Debug\WriteFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\bin\Debug\WriteFile.pdb
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\obj\Debug\WriteFile.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\obj\Debug\WriteFile.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\obj\Debug\WriteFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\Text Files\WriteFile\WriteFile\obj\Debug\WriteFile.pdb

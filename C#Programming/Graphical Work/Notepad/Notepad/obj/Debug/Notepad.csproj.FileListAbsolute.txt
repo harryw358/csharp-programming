@@ -1,0 +1,10 @@
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\CS\C#Y1Programming\Graphical Work\Notepad\Notepad\obj\Debug\Notepad.pdb

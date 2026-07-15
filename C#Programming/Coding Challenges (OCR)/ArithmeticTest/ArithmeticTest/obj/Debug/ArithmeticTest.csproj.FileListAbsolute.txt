@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\bin\Debug\ArithmeticTest.exe.config
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\bin\Debug\ArithmeticTest.exe
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\bin\Debug\ArithmeticTest.pdb
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\obj\Debug\ArithmeticTest.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\obj\Debug\ArithmeticTest.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\obj\Debug\ArithmeticTest.exe
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\ArithmeticTest\ArithmeticTest\obj\Debug\ArithmeticTest.pdb

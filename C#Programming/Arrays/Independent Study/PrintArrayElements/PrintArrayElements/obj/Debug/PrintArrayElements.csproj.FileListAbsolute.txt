@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\bin\Debug\PrintArrayElements.exe.config
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\bin\Debug\PrintArrayElements.exe
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\bin\Debug\PrintArrayElements.pdb
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\obj\Debug\PrintArrayElements.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\obj\Debug\PrintArrayElements.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\obj\Debug\PrintArrayElements.exe
+D:\CS\C#Y1Programming\Arrays\Independent Study\PrintArrayElements\PrintArrayElements\obj\Debug\PrintArrayElements.pdb

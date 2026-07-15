@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\bin\Debug\CodeItUp.exe.config
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\bin\Debug\CodeItUp.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\bin\Debug\CodeItUp.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\obj\Debug\CodeItUp.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\obj\Debug\CodeItUp.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\obj\Debug\CodeItUp.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\CodeItUp\CodeItUp\obj\Debug\CodeItUp.pdb

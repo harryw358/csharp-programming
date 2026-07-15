@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\bin\Debug\WriteToCSVFile.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\bin\Debug\WriteToCSVFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\bin\Debug\WriteToCSVFile.pdb
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\obj\Debug\WriteToCSVFile.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\obj\Debug\WriteToCSVFile.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\obj\Debug\WriteToCSVFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\obj\Debug\WriteToCSVFile.pdb
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\WriteToCSVFile\WriteToCSVFile\obj\Debug\WriteToCSVFile.csproj.SuggestedBindingRedirects.cache

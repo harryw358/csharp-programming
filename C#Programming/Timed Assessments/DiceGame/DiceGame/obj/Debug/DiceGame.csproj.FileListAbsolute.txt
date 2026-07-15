@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+D:\CS\C#Y1Programming\Timed Assessments\DiceGame\DiceGame\obj\Debug\DiceGame.pdb

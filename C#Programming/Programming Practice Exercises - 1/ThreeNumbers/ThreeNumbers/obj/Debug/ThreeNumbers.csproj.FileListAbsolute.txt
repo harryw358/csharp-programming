@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\bin\Debug\ThreeNumbers.exe.config
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\bin\Debug\ThreeNumbers.exe
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\bin\Debug\ThreeNumbers.pdb
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\obj\Debug\ThreeNumbers.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\obj\Debug\ThreeNumbers.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\obj\Debug\ThreeNumbers.exe
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\ThreeNumbers\ThreeNumbers\obj\Debug\ThreeNumbers.pdb

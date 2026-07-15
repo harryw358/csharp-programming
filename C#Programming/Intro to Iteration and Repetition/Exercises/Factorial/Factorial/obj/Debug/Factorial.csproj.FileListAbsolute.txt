@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\bin\Debug\Factorial.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\bin\Debug\Factorial.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\bin\Debug\Factorial.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\obj\Debug\Factorial.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\obj\Debug\Factorial.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache

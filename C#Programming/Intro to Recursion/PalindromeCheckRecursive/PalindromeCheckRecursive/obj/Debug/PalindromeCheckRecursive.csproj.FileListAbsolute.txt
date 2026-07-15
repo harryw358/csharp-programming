@@ -1,0 +1,11 @@
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\bin\Debug\PalindromeCheckRecursive.exe.config
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\bin\Debug\PalindromeCheckRecursive.exe
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\bin\Debug\PalindromeCheckRecursive.pdb
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.csproj.AssemblyReference.cache
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.csproj.SuggestedBindingRedirects.cache
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.Form1.resources
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.Properties.Resources.resources
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.csproj.GenerateResource.cache
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.csproj.CoreCompileInputs.cache
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.exe
+F:\CS\C#Y1Programming\Intro to Recursion\PalindromeCheckRecursive\PalindromeCheckRecursive\obj\Debug\PalindromeCheckRecursive.pdb

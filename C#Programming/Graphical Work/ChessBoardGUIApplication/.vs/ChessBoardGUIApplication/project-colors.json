@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d041626a-9a7e-415f-88c4-b6452a30d991": {
+      "ProjectGuid": "d041626a-9a7e-415f-88c4-b6452a30d991",
+      "DisplayName": "ChessBoardModel",
+      "ColorIndex": 0
+    },
+    "b0371275-275b-458a-a792-e732a1eea22e": {
+      "ProjectGuid": "b0371275-275b-458a-a792-e732a1eea22e",
+      "DisplayName": "ChessBoardGUIApplication",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

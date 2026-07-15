@@ -1,0 +1,14 @@
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\bin\Debug\1ExamGrades.exe.config
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\bin\Debug\1ExamGrades.exe
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\bin\Debug\1ExamGrades.pdb
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.exe
+D:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.pdb
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.exe
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\obj\Debug\1ExamGrades.pdb
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\bin\Debug\1ExamGrades.exe.config
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\bin\Debug\1ExamGrades.exe
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\1ExamGrades\1ExamGrades\bin\Debug\1ExamGrades.pdb

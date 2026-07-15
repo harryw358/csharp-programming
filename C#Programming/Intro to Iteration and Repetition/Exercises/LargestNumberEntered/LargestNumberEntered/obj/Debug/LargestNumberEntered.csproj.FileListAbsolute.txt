@@ -1,0 +1,6 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\LargestNumberEntered\LargestNumberEntered\bin\Debug\LargestNumberEntered.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\LargestNumberEntered\LargestNumberEntered\bin\Debug\LargestNumberEntered.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\LargestNumberEntered\LargestNumberEntered\bin\Debug\LargestNumberEntered.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\LargestNumberEntered\LargestNumberEntered\obj\Debug\LargestNumberEntered.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\LargestNumberEntered\LargestNumberEntered\obj\Debug\LargestNumberEntered.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\LargestNumberEntered\LargestNumberEntered\obj\Debug\LargestNumberEntered.pdb

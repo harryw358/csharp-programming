@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\bin\Debug\MoneyNotes.exe.config
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\bin\Debug\MoneyNotes.exe
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\bin\Debug\MoneyNotes.pdb
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\obj\Debug\MoneyNotes.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\obj\Debug\MoneyNotes.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\obj\Debug\MoneyNotes.exe
+E:\CS\C#Y1Programming\Programming Practice Exercises - 1\MoneyNotes\MoneyNotes\obj\Debug\MoneyNotes.pdb

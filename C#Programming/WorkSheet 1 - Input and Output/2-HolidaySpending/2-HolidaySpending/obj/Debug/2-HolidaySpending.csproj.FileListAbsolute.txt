@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\bin\Debug\2-HolidaySpending.exe.config
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\bin\Debug\2-HolidaySpending.exe
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\bin\Debug\2-HolidaySpending.pdb
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\obj\Debug\2-HolidaySpending.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\obj\Debug\2-HolidaySpending.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\obj\Debug\2-HolidaySpending.exe
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\obj\Debug\2-HolidaySpending.pdb
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\2-HolidaySpending\2-HolidaySpending\obj\Debug\2-HolidaySpending.csproj.SuggestedBindingRedirects.cache

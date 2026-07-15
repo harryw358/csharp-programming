@@ -1,0 +1,10 @@
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\CS\C#Y1Programming\Graphical Work\Calculator\Calculator\obj\Debug\Calculator.pdb

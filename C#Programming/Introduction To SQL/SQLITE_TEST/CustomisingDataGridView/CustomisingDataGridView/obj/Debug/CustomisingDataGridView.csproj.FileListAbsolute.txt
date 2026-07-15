@@ -1,0 +1,11 @@
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\bin\Debug\CustomisingDataGridView.exe.config
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\bin\Debug\CustomisingDataGridView.exe
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\bin\Debug\CustomisingDataGridView.pdb
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.csproj.SuggestedBindingRedirects.cache
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.Form1.resources
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.Properties.Resources.resources
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.csproj.GenerateResource.cache
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.exe
+D:\CS\C#Y1Programming\Introduction To SQL\SQLITE_TEST\CustomisingDataGridView\CustomisingDataGridView\obj\Debug\CustomisingDataGridView.pdb

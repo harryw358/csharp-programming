@@ -1,0 +1,3 @@
+D:\CS\C#Y1Programming\User-Defined Data Types\Sets\Sets\obj\Debug\Sets.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\User-Defined Data Types\Sets\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\User-Defined Data Types\Sets\Sets\obj\Debug\Sets.csproj.AssemblyReference.cache

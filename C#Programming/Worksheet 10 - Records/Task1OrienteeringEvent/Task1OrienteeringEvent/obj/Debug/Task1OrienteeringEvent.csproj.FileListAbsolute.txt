@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\bin\Debug\Task1OrienteeringEvent.exe.config
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\bin\Debug\Task1OrienteeringEvent.exe
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\bin\Debug\Task1OrienteeringEvent.pdb
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\obj\Debug\Task1OrienteeringEvent.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\obj\Debug\Task1OrienteeringEvent.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\obj\Debug\Task1OrienteeringEvent.exe
+D:\CS\C#Y1Programming\Worksheet 10 - Records\Task1OrienteeringEvent\Task1OrienteeringEvent\obj\Debug\Task1OrienteeringEvent.pdb

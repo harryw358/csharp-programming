@@ -1,0 +1,86 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RollForward>Major</RollForward>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <TieredCompilation>false</TieredCompilation>
+    <ImplicitUsings>true</ImplicitUsings>
+    <UserSecretsId>7098917b-a1f4-4399-b87e-2a8d3be942bb</UserSecretsId>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Icon.ico" />
+    <None Remove="Icon.bmp" />
+    <None Remove="Microsoft.Extensions.Configuration.UserSecrets" />
+    <None Remove="Backend\" />
+    <None Remove="Controllers\" />
+    <None Remove="Controls\" />
+    <None Remove="CustomLinkedLists\" />
+    <None Remove="Enumerations\" />
+    <None Remove="Maps\" />
+    <None Remove="Sprites\" />
+    <None Remove="UI\" />
+    <None Remove="UI\MenuUI\" />
+    <None Remove="System.Data.SQLite.Core" />
+    <None Remove="MySql.Data" />
+    <None Remove="GameLogic\" />
+    <None Remove="CustomStacks\" />
+    <None Remove="Content\Controls\Class\" />
+    <None Remove="CustomQueues\" />
+    <None Remove="Content\GameUI\" />
+    <None Remove="Training\" />
+    <None Remove="States\" />
+    <None Remove="Content\Players\Ranger\Left\walk.png" />
+    <None Remove="Content\Players\Mage\Left\" />
+    <None Remove="Content\Players\Mage\Right\" />
+    <None Remove="Content\Players\Melee\Left\" />
+    <None Remove="Content\Players\Melee\Right\" />
+    <None Remove="Content\Players\Ranger\Left\" />
+    <None Remove="Content\Players\Ranger\Right\" />
+    <None Remove="UI\RoundUI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Icon.ico" />
+    <EmbeddedResource Include="Icon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.263" />
+    <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.263" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.116" />
+    <PackageReference Include="MySql.Data" Version="8.0.30" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Backend\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Controls\" />
+    <Folder Include="CustomLinkedLists\" />
+    <Folder Include="Enumerations\" />
+    <Folder Include="Maps\" />
+    <Folder Include="Sprites\" />
+    <Folder Include="UI\" />
+    <Folder Include="UI\MenuUI\" />
+    <Folder Include="GameLogic\" />
+    <Folder Include="CustomStacks\" />
+    <Folder Include="Content\Controls\Class\" />
+    <Folder Include="CustomQueues\" />
+    <Folder Include="Content\GameUI\" />
+    <Folder Include="Training\" />
+    <Folder Include="States\" />
+    <Folder Include="Content\Players\Mage\Left\" />
+    <Folder Include="Content\Players\Mage\Right\" />
+    <Folder Include="Content\Players\Melee\Left\" />
+    <Folder Include="Content\Players\Melee\Right\" />
+    <Folder Include="Content\Players\Ranger\Left\" />
+    <Folder Include="Content\Players\Ranger\Right\" />
+    <Folder Include="UI\RoundUI\" />
+  </ItemGroup>
+  <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
+    <Message Text="Restoring dotnet tools" Importance="High" />
+    <Exec Command="dotnet tool restore" />
+  </Target>
+</Project>

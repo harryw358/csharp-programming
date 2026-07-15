@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\obj\Debug\1-TemperatureConversion.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\obj\Debug\1-TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\bin\Debug\1-TemperatureConversion.exe.config
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\bin\Debug\1-TemperatureConversion.exe
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\bin\Debug\1-TemperatureConversion.pdb
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\obj\Debug\1-TemperatureConversion.exe
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\1-TemperatureConversion\1-TemperatureConversion\obj\Debug\1-TemperatureConversion.pdb

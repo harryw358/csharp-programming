@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\bin\Debug\Program2.exe.config
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\bin\Debug\Program2.exe
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\bin\Debug\Program2.pdb
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\obj\Debug\Program2.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\obj\Debug\Program2.exe
+D:\CS\C#Y1Programming\Starter Programs\Program2\Program2\obj\Debug\Program2.pdb

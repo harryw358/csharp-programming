@@ -1,0 +1,6 @@
+D:\CS\Mock\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+D:\CS\Mock\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+D:\CS\Mock\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+D:\CS\Mock\Prog2\Prog2\Prog2\obj\Debug\Prog2.csproj.CoreCompileInputs.cache
+D:\CS\Mock\Prog2\Prog2\Prog2\obj\Debug\Prog2.exe
+D:\CS\Mock\Prog2\Prog2\Prog2\obj\Debug\Prog2.pdb

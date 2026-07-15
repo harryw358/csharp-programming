@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AAF1E0A2-3BDE-467C-BEC7-DFA611006542}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryVsLinearSearch/Program.cs">
+    <Files>
+      <File FileName="BinaryVsLinearSearch/Program.cs" Line="69" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryVsLinearSearch" expanded="True">
+            <Node name="BinaryVsLinearSearch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BinaryVsLinearSearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

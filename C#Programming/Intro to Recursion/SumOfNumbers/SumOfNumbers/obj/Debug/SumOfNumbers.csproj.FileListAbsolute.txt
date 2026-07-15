@@ -1,0 +1,11 @@
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.AssemblyReference.cache
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.Form1.resources
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.Properties.Resources.resources
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.GenerateResource.cache
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\actua\Documents\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

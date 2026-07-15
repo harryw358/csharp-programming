@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\bin\Debug\Enumerated Types.exe.config
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\bin\Debug\Enumerated Types.exe
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\bin\Debug\Enumerated Types.pdb
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\obj\Debug\Enumerated Types.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\obj\Debug\Enumerated Types.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\obj\Debug\Enumerated Types.exe
+D:\CS\C#Y1Programming\User-Defined Data Types\Enumerated Types\Enumerated Types\obj\Debug\Enumerated Types.pdb

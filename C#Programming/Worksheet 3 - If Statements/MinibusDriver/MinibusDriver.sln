@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinibusDriver", "MinibusDriver\MinibusDriver.csproj", "{8D25CCB0-1F6A-44CA-A73B-AD7F7E4E2001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D25CCB0-1F6A-44CA-A73B-AD7F7E4E2001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D25CCB0-1F6A-44CA-A73B-AD7F7E4E2001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D25CCB0-1F6A-44CA-A73B-AD7F7E4E2001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D25CCB0-1F6A-44CA-A73B-AD7F7E4E2001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17843336-9C05-4748-8735-CA109738F5E9}
+	EndGlobalSection
+EndGlobal

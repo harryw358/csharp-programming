@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\bin\Debug\ThatsAlotOfNumbers.exe.config
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\bin\Debug\ThatsAlotOfNumbers.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\bin\Debug\ThatsAlotOfNumbers.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\obj\Debug\ThatsAlotOfNumbers.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\obj\Debug\ThatsAlotOfNumbers.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\obj\Debug\ThatsAlotOfNumbers.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\ThatsAlotOfNumbers\ThatsAlotOfNumbers\obj\Debug\ThatsAlotOfNumbers.pdb

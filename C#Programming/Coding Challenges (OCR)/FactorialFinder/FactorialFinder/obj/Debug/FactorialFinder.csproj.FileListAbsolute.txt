@@ -1,0 +1,14 @@
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\bin\Debug\FactorialFinder.exe.config
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\bin\Debug\FactorialFinder.exe
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\bin\Debug\FactorialFinder.pdb
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.exe
+E:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\bin\Debug\FactorialFinder.exe.config
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\bin\Debug\FactorialFinder.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\bin\Debug\FactorialFinder.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\FactorialFinder\FactorialFinder\obj\Debug\FactorialFinder.pdb

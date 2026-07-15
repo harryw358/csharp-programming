@@ -1,0 +1,6 @@
+D:\CS\C#Y1Programming\String Handling\Further Exercises\TwoHalvesConcat\TwoHalvesConcat\bin\Debug\TwoHalvesConcat.exe.config
+D:\CS\C#Y1Programming\String Handling\Further Exercises\TwoHalvesConcat\TwoHalvesConcat\bin\Debug\TwoHalvesConcat.exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\TwoHalvesConcat\TwoHalvesConcat\bin\Debug\TwoHalvesConcat.pdb
+D:\CS\C#Y1Programming\String Handling\Further Exercises\TwoHalvesConcat\TwoHalvesConcat\obj\Debug\TwoHalvesConcat.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\TwoHalvesConcat\TwoHalvesConcat\obj\Debug\TwoHalvesConcat.exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\TwoHalvesConcat\TwoHalvesConcat\obj\Debug\TwoHalvesConcat.pdb

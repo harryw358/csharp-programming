@@ -1,0 +1,3 @@
+D:\CS\OOP\Task 3 (OOP Tutorials)\Task1Program\Task1Program\obj\Debug\Task1Program.csproj.AssemblyReference.cache
+D:\CS\OOP\Task 3 (OOP Tutorials)\Task1Program\Task1Program\obj\Debug\Task1Program.csproj.SuggestedBindingRedirects.cache
+D:\CS\OOP\Task 3 (OOP Tutorials)\Task1Program\Task1Program\obj\Debug\Task1Program.csproj.CoreCompileInputs.cache

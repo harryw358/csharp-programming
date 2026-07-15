@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\bin\Debug\TreasureArray.exe.config
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\bin\Debug\TreasureArray.exe
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\bin\Debug\TreasureArray.pdb
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\obj\Debug\TreasureArray.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\obj\Debug\TreasureArray.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\obj\Debug\TreasureArray.exe
+D:\CS\C#Y1Programming\Arrays\Exercises\TreasureArray\TreasureArray\obj\Debug\TreasureArray.pdb

@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\bin\Debug\MaxAndMin.exe.config
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\bin\Debug\MaxAndMin.exe
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\bin\Debug\MaxAndMin.pdb
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\obj\Debug\MaxAndMin.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\obj\Debug\MaxAndMin.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\obj\Debug\MaxAndMin.exe
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MaxAndMin\MaxAndMin\obj\Debug\MaxAndMin.pdb

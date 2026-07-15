@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\bin\Debug\TotalAndAverage.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\bin\Debug\TotalAndAverage.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\bin\Debug\TotalAndAverage.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\obj\Debug\TotalAndAverage.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\obj\Debug\TotalAndAverage.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\obj\Debug\TotalAndAverage.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\TotalAndAverage\TotalAndAverage\obj\Debug\TotalAndAverage.pdb

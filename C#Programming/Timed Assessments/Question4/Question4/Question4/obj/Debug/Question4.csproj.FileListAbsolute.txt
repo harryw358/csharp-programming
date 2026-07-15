@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\bin\Debug\Question4.exe.config
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\bin\Debug\Question4.exe
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\bin\Debug\Question4.pdb
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\obj\Debug\Question4.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\obj\Debug\Question4.exe
+D:\CS\C#Y1Programming\Timed Assessments\Question4\Question4\Question4\obj\Debug\Question4.pdb

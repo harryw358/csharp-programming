@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch.csproj", "{491AEAB4-5B9D-4B64-A022-4FF3A8471987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491AEAB4-5B9D-4B64-A022-4FF3A8471987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491AEAB4-5B9D-4B64-A022-4FF3A8471987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491AEAB4-5B9D-4B64-A022-4FF3A8471987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491AEAB4-5B9D-4B64-A022-4FF3A8471987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACD85BF-CD1E-4EE3-931F-37FDF0C11DAB}
+	EndGlobalSection
+EndGlobal

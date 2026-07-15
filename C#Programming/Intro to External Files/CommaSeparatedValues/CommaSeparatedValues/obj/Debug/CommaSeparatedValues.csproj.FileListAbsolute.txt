@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\bin\Debug\CommaSeparatedValues.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\bin\Debug\CommaSeparatedValues.exe
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\bin\Debug\CommaSeparatedValues.pdb
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\obj\Debug\CommaSeparatedValues.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\obj\Debug\CommaSeparatedValues.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\obj\Debug\CommaSeparatedValues.exe
+D:\CS\C#Y1Programming\Intro to External Files\CommaSeparatedValues\CommaSeparatedValues\obj\Debug\CommaSeparatedValues.pdb

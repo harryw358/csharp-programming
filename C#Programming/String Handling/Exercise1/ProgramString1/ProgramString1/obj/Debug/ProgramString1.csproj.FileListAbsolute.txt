@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\bin\Debug\ProgramString1.exe.config
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\bin\Debug\ProgramString1.exe
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\bin\Debug\ProgramString1.pdb
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\obj\Debug\ProgramString1.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\obj\Debug\ProgramString1.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\obj\Debug\ProgramString1.exe
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString1\ProgramString1\obj\Debug\ProgramString1.pdb

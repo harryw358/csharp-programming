@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\bin\Debug\WritingToABinaryFile.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\bin\Debug\WritingToABinaryFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\bin\Debug\WritingToABinaryFile.pdb
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\obj\Debug\WritingToABinaryFile.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\obj\Debug\WritingToABinaryFile.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\obj\Debug\WritingToABinaryFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\WritingToABinaryFile\WritingToABinaryFile\obj\Debug\WritingToABinaryFile.pdb

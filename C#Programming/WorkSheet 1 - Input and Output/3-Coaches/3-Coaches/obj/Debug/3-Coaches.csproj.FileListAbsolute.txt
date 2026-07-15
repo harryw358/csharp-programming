@@ -1,0 +1,14 @@
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\bin\Debug\3-Coaches.exe.config
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\bin\Debug\3-Coaches.exe
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\bin\Debug\3-Coaches.pdb
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.exe
+D:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.pdb
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\bin\Debug\3-Coaches.exe.config
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\bin\Debug\3-Coaches.exe
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\bin\Debug\3-Coaches.pdb
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.exe
+E:\CS\C#Y1Programming\WorkSheet 1 - Input and Output\3-Coaches\3-Coaches\obj\Debug\3-Coaches.pdb

@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\bin\Debug\Stacks.exe.config
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\bin\Debug\Stacks.exe
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\bin\Debug\Stacks.pdb
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\obj\Debug\Stacks.exe
+D:\CS\C#Y1Programming\Intro to Stacks\Stacks\Stacks\obj\Debug\Stacks.pdb

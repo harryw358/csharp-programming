@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F2D68D7E-3355-4411-B34B-6BB0D02376E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.NEAPROJECT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NEAPROJECT" expanded="True">
+            <Node name="NEAPROJECT" expanded="True">
+              <Node name="Backend" expanded="True" />
+              <Node name="States" expanded="True">
+                <Node name="SelectUpgradeState.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

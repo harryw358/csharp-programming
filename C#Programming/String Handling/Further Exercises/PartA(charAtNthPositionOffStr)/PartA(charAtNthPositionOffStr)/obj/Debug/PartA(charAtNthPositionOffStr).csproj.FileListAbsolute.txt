@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\bin\Debug\PartA(charAtNthPositionOffStr).exe.config
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\bin\Debug\PartA(charAtNthPositionOffStr).exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\bin\Debug\PartA(charAtNthPositionOffStr).pdb
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\obj\Debug\PartA(charAtNthPositionOffStr).csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\obj\Debug\PartA(charAtNthPositionOffStr).exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\obj\Debug\PartA(charAtNthPositionOffStr).pdb
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\obj\Debug\PartA(charAtNthPositionOffStr).csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\PartA(charAtNthPositionOffStr)\PartA(charAtNthPositionOffStr)\obj\Debug\PartA(charAtNthPositionOffStr).csproj.SuggestedBindingRedirects.cache

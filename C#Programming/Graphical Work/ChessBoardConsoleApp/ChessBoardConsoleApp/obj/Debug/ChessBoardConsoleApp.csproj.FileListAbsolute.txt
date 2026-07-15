@@ -1,0 +1,10 @@
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+D:\CS\C#Y1Programming\Graphical Work\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb

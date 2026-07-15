@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
+E:\CS\C#Y1Programming\Worksheet 5 - Loops Programming\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.AssemblyReference.cache

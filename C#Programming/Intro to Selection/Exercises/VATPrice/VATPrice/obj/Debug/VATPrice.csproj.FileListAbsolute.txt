@@ -1,0 +1,14 @@
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\bin\Debug\VATPrice.exe.config
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\bin\Debug\VATPrice.exe
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\bin\Debug\VATPrice.pdb
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.exe
+D:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.pdb
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\bin\Debug\VATPrice.exe.config
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\bin\Debug\VATPrice.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\bin\Debug\VATPrice.pdb
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\VATPrice\VATPrice\obj\Debug\VATPrice.pdb

@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\bin\Debug\SentenceAnalysis.exe.config
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\bin\Debug\SentenceAnalysis.exe
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\bin\Debug\SentenceAnalysis.pdb
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\obj\Debug\SentenceAnalysis.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\obj\Debug\SentenceAnalysis.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\obj\Debug\SentenceAnalysis.exe
+D:\CS\C#Y1Programming\Worksheet 9 - Subroutines\SentenceAnalysis\SentenceAnalysis\obj\Debug\SentenceAnalysis.pdb

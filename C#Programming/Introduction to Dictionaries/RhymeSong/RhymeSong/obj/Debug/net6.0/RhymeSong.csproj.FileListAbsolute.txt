@@ -1,0 +1,15 @@
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\bin\Debug\net6.0\RhymeSong.exe
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\bin\Debug\net6.0\RhymeSong.deps.json
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\bin\Debug\net6.0\RhymeSong.runtimeconfig.json
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\bin\Debug\net6.0\RhymeSong.dll
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\bin\Debug\net6.0\RhymeSong.pdb
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.csproj.AssemblyReference.cache
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.AssemblyInfoInputs.cache
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.AssemblyInfo.cs
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.csproj.CoreCompileInputs.cache
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.dll
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\refint\RhymeSong.dll
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.pdb
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\RhymeSong.genruntimeconfig.cache
+D:\CS\C#Programming\Introduction to Dictionaries\RhymeSong\RhymeSong\obj\Debug\net6.0\ref\RhymeSong.dll

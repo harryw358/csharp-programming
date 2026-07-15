@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe.config
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\bin\Debug\LinkedListTutorial.pdb
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.SuggestedBindingRedirects.cache
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
+D:\CS\C#Y1Programming\Intro to Lists\LinkedListTutorial\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb

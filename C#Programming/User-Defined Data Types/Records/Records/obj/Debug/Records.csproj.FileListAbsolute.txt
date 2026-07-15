@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\bin\Debug\Records.exe.config
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\bin\Debug\Records.exe
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\bin\Debug\Records.pdb
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\obj\Debug\Records.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\obj\Debug\Records.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\obj\Debug\Records.exe
+D:\CS\C#Y1Programming\User-Defined Data Types\Records\Records\obj\Debug\Records.pdb

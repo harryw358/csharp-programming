@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\bin\Debug\CaseStatement.exe.config
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\bin\Debug\CaseStatement.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\bin\Debug\CaseStatement.pdb
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\obj\Debug\CaseStatement.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\obj\Debug\CaseStatement.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\obj\Debug\CaseStatement.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\CaseStatement\CaseStatement\obj\Debug\CaseStatement.pdb

@@ -1,0 +1,8 @@
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\bin\Debug\PartyListTask.exe.config
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\bin\Debug\PartyListTask.exe
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\bin\Debug\PartyListTask.pdb
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\obj\Debug\PartyListTask.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\obj\Debug\PartyListTask.csproj.SuggestedBindingRedirects.cache
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\obj\Debug\PartyListTask.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\obj\Debug\PartyListTask.exe
+D:\CS\C#Y1Programming\Intro to Lists\PartyListTask\PartyListTask\obj\Debug\PartyListTask.pdb

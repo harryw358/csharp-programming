@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\bin\Debug\SelectionProgrammingAssignment.exe.config
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\bin\Debug\SelectionProgrammingAssignment.exe
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\bin\Debug\SelectionProgrammingAssignment.pdb
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\obj\Debug\SelectionProgrammingAssignment.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\obj\Debug\SelectionProgrammingAssignment.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\obj\Debug\SelectionProgrammingAssignment.exe
+D:\CS\C#Y1Programming\Timed Assessments\SelectionProgrammingAssignment\SelectionProgrammingAssignment\obj\Debug\SelectionProgrammingAssignment.pdb

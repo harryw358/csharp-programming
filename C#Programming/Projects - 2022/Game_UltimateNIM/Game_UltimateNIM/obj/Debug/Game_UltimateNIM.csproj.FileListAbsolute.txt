@@ -1,0 +1,11 @@
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.csproj.AssemblyReference.cache
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.csproj.CoreCompileInputs.cache
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/bin/Debug/Game_UltimateNIM.exe.config
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/bin/Debug/Game_UltimateNIM.exe
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/bin/Debug/Game_UltimateNIM.pdb
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.exe
+D:/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.pdb
+/Volumes/Flash Drive/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.csproj.AssemblyReference.cache
+/Volumes/Flash Drive/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.csproj.CoreCompileInputs.cache
+/Volumes/Flash Drive/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.exe
+/Volumes/Flash Drive/CS/C#Y1Programming/Projects - 2022/Game_UltimateNIM/Game_UltimateNIM/obj/Debug/Game_UltimateNIM.pdb

@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\bin\Debug\Task03CathedralTowns.exe.config
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\bin\Debug\Task03CathedralTowns.exe
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\bin\Debug\Task03CathedralTowns.pdb
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\obj\Debug\Task03CathedralTowns.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\obj\Debug\Task03CathedralTowns.exe
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\obj\Debug\Task03CathedralTowns.pdb
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\Task03CathedralTowns\Task03CathedralTowns\obj\Debug\Task03CathedralTowns.csprojAssemblyReference.cache

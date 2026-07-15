@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

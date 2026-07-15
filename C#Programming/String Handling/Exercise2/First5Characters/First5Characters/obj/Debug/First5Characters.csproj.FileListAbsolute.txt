@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\bin\Debug\First5Characters.exe.config
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\bin\Debug\First5Characters.exe
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\bin\Debug\First5Characters.pdb
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\obj\Debug\First5Characters.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\obj\Debug\First5Characters.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\obj\Debug\First5Characters.exe
+D:\CS\C#Y1Programming\String Handling\Exercise2\First5Characters\First5Characters\obj\Debug\First5Characters.pdb

@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\bin\Debug\Example2.exe.config
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\bin\Debug\Example2.exe
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\bin\Debug\Example2.pdb
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\obj\Debug\Example2.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\obj\Debug\Example2.exe
+D:\CS\C#Y1Programming\Intro to Iteration and Repetition\Example2\Example2\obj\Debug\Example2.pdb

@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\obj\Debug\NetSalary.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\obj\Debug\NetSalary.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\bin\Debug\NetSalary.exe.config
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\bin\Debug\NetSalary.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\bin\Debug\NetSalary.pdb
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\obj\Debug\NetSalary.exe
+E:\CS\C#Y1Programming\Intro to Selection\Exercises\NetSalary\NetSalary\obj\Debug\NetSalary.pdb

@@ -1,0 +1,743 @@
+<html> 
+<head> 
+	<title>Introduction to Object Oriented Programming (C#)</title>
+	<script src="lightbox/js/jquery-1.10.2.min.js"></script>
+	<script src="lightbox/js/lightbox-2.6.min.js"></script>
+	
+	<link href="style.css" rel="stylesheet" />
+	<link href="lightbox/css/lightbox.css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Comfortaa:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Sintony:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<!-- .container start -->
+<div class="container">
+	
+	<!-- .banner start -->
+	<div class="banner">
+		<h1>Introduction to Object Oriented Programming<br /><span style="color:#FFF">C# Edition</span></h1>
+	<ul id="nav">		
+		<li><a href="index.html">1. OOP Fundamentals</a></li>
+		<li><a href="encapsulation.html">2. Encapsulation</a></li>
+		<li><a href="inheritance-abstract-methods.html">3. Inheritance & Abstract Methods</a></li>
+		<li><a href="polymorphism.html">4. Polymorphism</a></li>
+		<li class="end"><a href="class-relationships.html">5. Class Relationships</a></li>		
+		<li><a href="projects.html" class="selected">Programming Projects</a></li>		
+		<li class="end"><a href="glossary.html">Glossary of Terms</a></li>
+
+
+	</ul>
+	</div>
+	
+	<!-- .banner end -->	
+
+	
+	<!-- .topic_header start -->
+	<div class="topic_header">
+	<table><tr><td><h1><strong>Programming Projects</strong></h1></td></tr></table>
+		
+	</div>
+	<!-- .topic_header end -->
+	
+
+
+	
+	<!-- .topic_info start -->		
+	<div class="topic_info">
+	
+	<div class="quicklinks">Jump to: <a href="#P-1">Project 1 (4 in a Row)</a> | <a href="#P-2">Project 2 (Sinking Ships)</a> | <a href="#P-3">Project 3 (Chess)</a></div>
+	
+	<p>For each of the three programming projects below, there are two versions of the skeleton code: </p>
+
+	<ol>
+		<li>The <strong>Extended</strong> versions provide only the main method of the program as a starting point</li>
+		<li>The <strong>Basic</strong> versions, in addition to the main method, also include the program’s classes and select methods.</li>
+	</ol>
+
+<a name="P-1"><h1>Project 1: Four in a Row</h1></a>
+		<div class="activity" style="background:#097392">	
+		<a name="4-5"><h1 style="color:#FFF000"><strong>Four in a Row</strong></h1>	
+		<table><tr><td>
+		<p>This activity uses the following files:
+			<table>
+			<tr><th>Basic Task</th><th>Extended Task</th></tr>
+			<tr>
+				<td>
+					<ul>
+					<li><strong><a href="code/ProjectCode/4inaRow/Basic/Program.cs" target="_blank">Program.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/4inaRow/Basic/Board.cs" target="_blank">Board.cs</strong></a></li>
+					<li><strong><a href="code/ProjectCode/4inaRow/Basic/Player.cs" target="_blank">Player.cs</strong></a></li>
+					</ul>
+				</td>
+				<td>
+					<ul>
+					<li><strong><a href="code/ProjectCode/4inaRow/Extended/Program.cs" target="_blank">Program.cs</a></strong></li>
+					</ul>
+				</td>
+			</tr>
+		</table>	
+		</td></tr></table>
+		</div>
+	
+		<p><em>Four in a Row</em> is a game in which players take turns adding tokens to one of the columns on the game board. Tokens fall to the lowest position in the chosen column that does not already have a token in it. Once one of the players has placed four of their tokens in a straight line (either vertically, horizontally or diagonally), they win the game. If the board is full and no player has won, then the game ends in a draw.</p>
+		<p>Using the following UML class diagram and class descriptions to help you, create a version of Four in a Row. The game must allow for a minimum of two and a maximum of four players, allow each player to enter their name (duplicate names should not be accepted) and give the players the ability to choose how many rows (between four and 10), and how many columns (between four and 10) the game board should have. You may use the Four in a Row skeleton code to help you.</p>
+				
+		<center><img src="images/P-1.png" style="border:none; margin: 0">	</center>
+
+	<strong>Player</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>playerName</td>
+	<td>Specifies this player’s name.</td>	
+	</tr>
+	
+	<tr>
+	<td>playerNumber</td>
+	<td>Specifies the number of this player’s token.</td>
+	</tr>
+	
+	<tr>
+	<td>Player()</td>
+	<td>Creates a new Player object.</td>
+	</tr>
+	
+	<tr>
+	<td>getName()</td>
+	<td>Accessor for playerName.</td>
+	</tr>
+	
+	<tr>
+	<td>getNumber()</td>
+	<td>Accessor for playerNumber.</td>
+	</tr>
+	
+	<tr>
+	<td>makeMove()</td>
+	<td>Asks the player to pick a column to place their token in until a valid non-full column is given, and adds their token to the given column.</td>
+	</tr>
+	
+	<tr>
+	<td>checkWinner()</td>
+	<td>Returns the player’s name if they have won, or "Nobody" if they haven’t.</td>
+	</tr>
+	</table>	
+	
+	<strong>Board</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>columns</td>
+	<td>Specifies the number of columns on the game board.</td>	
+	</tr>
+	
+	<tr>
+	<td>rows</td>
+	<td>Specifies the number of rows on the game board.</td>
+	</tr>
+	
+	<tr>
+	<td>board</td>
+	<td>Keeps track of which player’s token (if any) is stored at each location on the game board.</td>
+	</tr>
+	
+	<tr>
+	<td>Board()</td>
+	<td>Creates a new Board object.</td>
+	</tr>
+	
+	<tr>
+	<td>display()</td>
+	<td>Displays the current state of the board.</td>
+	</tr>
+	
+	<tr>
+	<td>columnFull()</td>
+	<td>Checks whether a given column is full.</td>
+	</tr>
+	
+	<tr>
+	<td>boardFull()</td>
+	<td>Checks whether the entire board is full.</td>
+	</tr>
+	
+	<tr>
+	<td>getWidth()</td>
+	<td>Accessor for columns.</td>
+	</tr>
+	
+	<tr>
+	<td>addToken()</td>
+	<td>Adds a given token to a given column.</td>
+	</tr>
+	
+	<tr>
+	<td>checkWinner()</td>
+	<td>Checks the board for a winner, returning the winner’s playerNumber or 0 if there is no winner.</td>
+	</tr>
+	
+	<tr>
+	<td>checkVertical()</td>
+	<td>Checks for vertical lines of four matching tokens, returning the playerNumber of the player who made the line, or 0 if there are no vertical lines of four.</td>
+	</tr>
+	
+	<tr>
+	<td>checkHorizontal()</td>
+	<td>Checks for horizontal lines of four matching tokens, returning the playerNumber of the player who made the line, or 0 if there are no horizontal lines of four.</td>
+	</tr>
+	
+	<tr>
+	<td>checkRightDiagonal()</td>
+	<td>Checks for left-to-right diagonal lines of four matching tokens, returning the playerNumber of the player who made the line, or 0 if there are no high-left to low-right diagonal lines of four.</td>
+	</tr>
+	
+	<tr>
+	<td>checkLeftDiagonal()</td>
+	<td>Checks for right-to-left diagonal lines of four matching tokens, returning the playerNumber of the player who made the line, or 0 if there are no high-right to low-left lines of four.</td>
+	</tr>
+	</table>
+	
+<a name="P-2"><h1>Project 2: Sinking Ships</h1></a>
+		<div class="activity" style="background:#097392">	
+		<a name="4-5"><h1 style="color:#FFF000"><strong>Sinking Ships</strong></h1>	
+		<table><tr><td>
+		<p>This activity uses the following files:
+		<table>
+			<tr><th>Basic Task</th><th>Extended Task</th></tr>
+			<tr>
+				<td>
+					<ul>
+					<li><strong><a href="code/ProjectCode/SinkingShips/Basic/Program.cs" target="_blank">Program.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/SinkingShips/Basic/Board.cs" target="_blank">Board.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/SinkingShips/Basic/ComputerPlayer.cs" target="_blank">ComputerPlayer.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/SinkingShips/Basic/HumanPlayer.cs" target="_blank">HumanPlayer.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/SinkingShips/Basic/Player.cs" target="_blank">Player.cs</a></strong></li>
+					</ul>
+				</td>
+				<td>
+					<ul>
+					<li><strong><a href="code/ProjectCode/SinkingShips/Extended/Program.cs" target="_blank">Program.cs</a></strong></li>
+					</ul>
+				</td>
+			</tr>
+		</table>			
+		</td></tr></table>
+		</div>
+	
+		<p><em>Sinking Ships</em> is a game in which two players place a number of ships of various length on their own board, which is hidden from the other player. Players then take turns calling out one of the tiles on their opponent’s board. Their opponent then tells them whether the shot hit or missed any of their ships. Once one player has hit every tile that contains a ship on their opponent’s board, they win the game.</p>
+		<p>Using the following UML class diagram and class descriptions to help you, create a version of Sinking Ships. The game must have one human player, and one player controlled by the computer (the computer player can be made to target random tiles). The player should be able to choose how many rows (between 10 and 26) and how many columns (between 10 and 26) the game boards should have. Players cannot shoot tiles that they have already shot, and before the human player takes their shot, they should have the option to look at their own board (showing the location of their ships and the tiles that the computer player has taken shots at and whether those shots hit or missed) or the opponent’s board (showing the tiles that the human player has taken shots at, and whether those shots hit or missed, but not showing the location of the opponent’s ships). Player input should be given as a number, to indicate the column of their chosen location, and a letter, to indicate the row (first row is A, second row is B, etc.). You may use the Sinking Ships skeleton code to help you.</p>
+				
+		<center><img src="images/P-2.png" style="border:none; margin: 0">	</center>
+
+	<strong>Board</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>columns</td>
+	<td>Specifies the number of columns on the game board.</td>	
+	</tr>
+	
+	<tr>
+	<td>rows</td>
+	<td>Specifies the number of rows on the game board.</td>
+	</tr>
+	
+	<tr>
+	<td>board</td>
+	<td>Keeps track of the ship locations and shot locations on the game board.</td>
+	</tr>
+	
+	<tr>
+	<td>playerName</td>
+	<td>Specifies the number of the player that the board belongs to.</td>
+	</tr>
+	
+	<tr>
+	<td>Board()</td>
+	<td>Creates a new Board object.</td>
+	</tr>
+	
+	<tr>
+	<td>display()</td>
+	<td>Displays the current state of the board, only showing ship locations if the player is looking at their own board.</td>
+	</tr>
+	
+	<tr>
+	<td>getWidth()</td>
+	<td>Accessor for columns.</td>
+	</tr>
+	
+	<tr>
+	<td>getHeight()</td>
+	<td>Accessor for rows.</td>
+	</tr>
+	
+	<tr>
+	<td>takeShot()</td>
+	<td>Takes a shot at the given location on the board.</td>
+	</tr>
+	
+	<tr>
+	<td>placeShip()</td>
+	<td>Asks the player to pick a location on the board and an orientation (vertical or horizontal) for a ship of a given length until a valid location and orientation are given that will fit the ship on the board, and then adds the ship to the board as specified.</td>
+	</tr>
+	
+	<tr>
+	<td>checkWinner()</td>
+	<td>Checks whether all of the ships on the board have been sunk.</td>
+	</tr>
+	</table>	
+	
+	<strong>Player</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>playerNumber</td>
+	<td>Specifies this player’s number.</td>	
+	</tr>
+	
+	<tr>
+	<td>playerBoard</td>
+	<td>Specifies this player’s board.</td>
+	</tr>
+	
+	<tr>
+	<td>Player()</td>
+	<td>Creates a new Player object.</td>
+	</tr>
+	
+	<tr>
+	<td>getNumber()</td>
+	<td>Accessor for playerNumber.</td>
+	</tr>
+	
+	<tr>
+	<td>getBoard()</td>
+	<td>Accessor for playerBoard.</td>
+	</tr>
+	</table>
+
+	<strong>HumanPlayer</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>placeShips()</td>
+	<td>Places all of this player’s ships onto their board, displaying messages to tell the player which ship they are placing and to confirm that they have successfully placed each ship.</td>	
+	</tr>
+	
+	<tr>
+	<td>takeShot()</td>
+	<td>Gets a valid location on a board and takes a shot at it, displaying a message and giving the player another chance to take a shot if they select an invalid target.</td>
+	</tr>
+	
+	<tr>
+	<td>getColumn()</td>
+	<td>Gets a valid column on a board from player input, displaying a message and giving the player another chance to select a column if they select an invalid column.</td>
+	</tr>
+	
+	<tr>
+	<td>getRow()</td>
+	<td>Gets a valid row on a board from player input, displaying a message and giving the player another chance to select a row if they select an invalid row.</td>
+	</tr>
+	</table>
+
+	<strong>ComputerPlayer</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>placeShips()</td>
+	<td>Places all of this player’s ships onto their board, displaying one message to say that the computer is placing its ships and another message to say that all of the computer’s ships have been placed.</td>	
+	</tr>
+	
+	<tr>
+	<td>takeShot()</td>
+	<td>Gets a valid location on a board and takes a shot at it.</td>
+	</tr>
+	
+	<tr>
+	<td>getColumn()</td>
+	<td>Gets a valid column on a board.</td>
+	</tr>
+	
+	<tr>
+	<td>getRow()</td>
+	<td>Gets a valid row on a board.</td>
+	</tr>
+	</table>
+
+<a name="P-3"><h1>Project 3: Chess</h1></a>
+		<div class="activity" style="background:#097392">	
+		<a name="4-5"><h1 style="color:#FFF000"><strong>Chess</strong></h1>	
+		<table><tr><td>
+		<p>This activity uses the following files:
+		<table>
+			<tr><th>Basic Task</th><th>Extended Task</th></tr>
+			<tr>
+				<td>
+					<ul>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Program.cs" target="_blank">Program.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/BasicMovement.cs" target="_blank">BasicMovement.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Bishop.cs" target="_blank">Bishop.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Board.cs" target="_blank">Board.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/DiagonalMovement.cs" target="_blank">DiagonalMovement.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/HumanPlayer.cs" target="_blank">HumanPlayer.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/King.cs" target="_blank">King.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Knight.cs" target="_blank">Knight.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Pawn.cs" target="_blank">Pawn.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Piece.cs" target="_blank">Piece.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Player.cs" target="_blank">Player.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Queen.cs" target="_blank">Queen.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/Rook.cs" target="_blank">Rook.cs</a></strong></li>
+					<li><strong><a href="code/ProjectCode/Chess/Basic/StraightMovement.cs" target="_blank">StraightMovement.cs</a></strong></li>
+					</ul>
+				</td>
+				<td>
+					<ul>
+					<li><strong><a href="code/ProjectCode/Chess/Extended/Program.cs" target="_blank">Program.cs</a></strong></li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		</td></tr></table>	
+		</div>
+	
+		<p><em>Chess</em> is a game played on an 8 × 8 game board whereby two players have a number of pieces, including one King. Players take turns to move one of their pieces. Each piece has different rules for how it can move around the board, and when one piece is moved onto a tile containing one of the opponent’s pieces, the opponent’s piece is taken out of the game. The winner is the player who manages to take their opponent’s King.</p>
+		<p>Using the following UML class diagram and class descriptions to help you, create a version of Chess. When it is a player’s turn, they must select the tile with the piece that they would like to move (if this tile doesn’t contain one of their pieces, a message should be displayed to tell the player that they don’t have a piece on that tile and they should be asked for their selection again) and then select the tile that they would like to move this piece to (if this is not a valid move, a message should be displayed to tell the player that this move is invalid and they should be asked for their move again). Player input should be given as a number, to indicate the column of their chosen location, and a letter, to indicate the row (first row is A, second row is B, etc.). You may use the Chess skeleton code to help you.</p>
+				
+		<center><img src="images/P-3.png" style="border:none; margin: 0">	</center>
+
+	<strong>Board</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>columns</td>
+	<td>Specifies the number of columns on the game board.</td>	
+	</tr>
+	
+	<tr>
+	<td>rows</td>
+	<td>Specifies the number of rows on the game board.</td>
+	</tr>
+	
+	<tr>
+	<td>board</td>
+	<td>Keeps track of the piece locations on the game board.</td>
+	</tr>
+	
+	<tr>
+	<td>gameOver</td>
+	<td>Specifies whether or not the game has been won.</td>
+	</tr>
+	
+	<tr>
+	<td>Board()</td>
+	<td>Creates a new Board object.</td>
+	</tr>
+	
+	<tr>
+	<td>display()</td>
+	<td>Displays the current state of the board.</td>
+	</tr>
+	
+	<tr>
+	<td>getWidth()</td>
+	<td>Accessor for columns.</td>
+	</tr>
+	
+	<tr>
+	<td>getHeight()</td>
+	<td>Accessor for rows.</td>
+	</tr>
+	
+	<tr>
+	<td>gameOver()</td>
+	<td>Accessor for gameOver.</td>
+	</tr>
+	
+	<tr>
+	<td>pieceAt()</td>
+	<td>Returns the piece at a given location, or none if that location has no piece.</td>
+	</tr>
+	
+	<tr>
+	<td>movePiece()</td>
+	<td>Tries to make a given move, displaying a message saying what move has been made or a message saying that the move is invalid.</td>
+	</tr>
+	
+	<tr>
+	<td>takePiece()</td>
+	<td>Displays a message to say which piece has been taken by which piece and sets gameOver = True if the piece which has been taken is a king.</td>
+	</tr>
+	
+	<tr>
+	<td>upgradePiece()</td>
+	<td>Replaces a pawn with a queen if it reaches the end of the board.</td>
+	</tr>
+	
+	<tr>
+	<td>setUp()</td>
+	<td>Sets up the board with all pieces in their starting positions.</td>
+	</tr>
+	</table>	
+	
+	<strong>Player</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>colour</td>
+	<td>Specifies this player’s colour.</td>	
+	</tr>
+	
+	<tr>
+	<td>Player()</td>
+	<td>Creates a new Player object.</td>
+	</tr>
+	
+	<tr>
+	<td>getColour()</td>
+	<td>Accessor for colour.</td>
+	</tr>
+	</table>
+
+	<strong>HumanPlayer</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>movePiece()</td>
+	<td>Asks a player for the start and end locations of their move until they provide two valid locations, then makes the move and returns whether or not the game has been won.</td>	
+	</tr>
+	
+	<tr>
+	<td>getPos()</td>
+	<td>Checks that the player has given a valid location, returning an array of the row and column numbers if one location has been passed to getPos or making the move on the board if two locations have been passed.</td>
+	</tr>
+	</table>
+
+	<strong>Piece</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+
+	<tr>
+	<td>colour</td>
+	<td>Specifies the colour of this piece.</td>	
+	</tr>
+	
+	<tr>
+	<td>type</td>
+	<td>Specifies the name of this type of piece.</td>
+	</tr>
+	
+	<tr>
+	<td>range</td>
+	<td>Specifies the number of tiles this piece can move in a turn.</td>
+	</tr>
+	
+	<tr>
+	<td>Piece()</td>
+	<td>Creates a new Piece object.</td>
+	</tr>
+	
+	<tr>
+	<td>getType()</td>
+	<td>Accessor for type.</td>
+	</tr>
+	
+	<tr>
+	<td>getColour()</td>
+	<td>Accessor for colour.</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>Gets a valid row on a board.</td>
+	</tr>
+	</table>
+
+	<strong>Pawn</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>Pawn()</td>
+	<td>Creates a new Pawn object, with type = "pawn".</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>A pawn can move one tile straight forward if there is no piece in front of it, or one tile diagonally forward if there is an enemy piece in that location. A pawn can move two tiles straight forward if it is in its starting position and there are no pieces on either of the two tiles in front of it.</td>
+	</tr>
+	</table>
+	
+	<strong>Knight</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>Knight()</td>
+	<td>Creates a new Knight object, with type = "knight".</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>A knight can move two tiles vertically and one tile horizontally, or two tiles horizontally and one tile vertically. A knight can jump over pieces.</td>
+	</tr>
+	</table>
+	
+	<strong>Rook</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>Rook()</td>
+	<td>Creates a new Rook object, with type = "rook".</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>A rook can move any number of tiles in a straight line as long as there are no pieces between it and the end tile.</td>
+	</tr>
+	</table>
+	
+	<strong>Bishop</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>Bishop()</td>
+	<td>Creates a new Bishop object, with type = "bishop".</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>A bishop can move any number of tiles in a diagonal line as long as there are no pieces between it and the end tile.</td>
+	</tr>
+	</table>
+	
+	<strong>Queen</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>Queen()</td>
+	<td>Creates a new Queen object, with type = "queen".</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>A Queen can make any move that a rook or bishop can make.</td>
+	</tr>
+	</table>
+	
+	<strong>King</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>King()</td>
+	<td>Creates a new King object, with type = "king".</td>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>A King can move one tile in any direction.</td>
+	</tr>
+	</table>
+	
+	<strong>BasicMovement</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>Makes sure that the given move meets the basic criteria for a valid move for a piece.</td>
+	</tr>
+	</table>
+	
+	<strong>StraightMovement</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>Makes sure that the given move meets the criteria for a valid move when moving in a straight line.</td>
+	</tr>
+	</table>
+	
+	<strong>DiagonalMovement</strong>
+	<table><tr>
+	<th>Attribute/Method</th>
+	<th>Description</th>
+	</tr>
+	
+	<tr>
+	<td>validMove()</td>
+	<td>Makes sure that the given move meets the criteria for a valid move when moving in a diagonal line.</td>
+	</tr>
+	</table>
+<!--activity end-->
+		
+
+
+	
+	
+	<div class="footer">&copy; <a href="http://zigzageducation.co.uk">ZigZag Education 2019</a></div>
+		
+	
+	<!-- .topic_info end -->		
+
+	</div>
+<!-- .container end -->
+
+
+</body>
+</html>
+
+

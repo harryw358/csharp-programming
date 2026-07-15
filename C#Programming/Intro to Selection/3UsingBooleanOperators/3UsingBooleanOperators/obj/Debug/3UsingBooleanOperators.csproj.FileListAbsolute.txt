@@ -1,0 +1,6 @@
+D:\CS\C#Y1Programming\Intro to Selection\3UsingBooleanOperators\3UsingBooleanOperators\bin\Debug\3UsingBooleanOperators.exe.config
+D:\CS\C#Y1Programming\Intro to Selection\3UsingBooleanOperators\3UsingBooleanOperators\bin\Debug\3UsingBooleanOperators.exe
+D:\CS\C#Y1Programming\Intro to Selection\3UsingBooleanOperators\3UsingBooleanOperators\bin\Debug\3UsingBooleanOperators.pdb
+D:\CS\C#Y1Programming\Intro to Selection\3UsingBooleanOperators\3UsingBooleanOperators\obj\Debug\3UsingBooleanOperators.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Selection\3UsingBooleanOperators\3UsingBooleanOperators\obj\Debug\3UsingBooleanOperators.exe
+D:\CS\C#Y1Programming\Intro to Selection\3UsingBooleanOperators\3UsingBooleanOperators\obj\Debug\3UsingBooleanOperators.pdb

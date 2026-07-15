@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe.config
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.pdb
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.csprojAssemblyReference.cache
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.exe
+D:\CS\C#Y1Programming\Timed Assessments\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.pdb

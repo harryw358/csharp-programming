@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\bin\Debug\GreaterThan99.exe.config
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\bin\Debug\GreaterThan99.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\bin\Debug\GreaterThan99.pdb
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\obj\Debug\GreaterThan99.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\obj\Debug\GreaterThan99.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\obj\Debug\GreaterThan99.exe
+E:\CS\C#Y1Programming\Intro to Iteration and Repetition\Exercises\GreaterThan99\GreaterThan99\obj\Debug\GreaterThan99.pdb

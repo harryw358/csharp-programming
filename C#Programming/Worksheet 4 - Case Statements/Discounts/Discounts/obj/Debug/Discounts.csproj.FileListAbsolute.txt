@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\bin\Debug\Discounts.exe.config
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\bin\Debug\Discounts.exe
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\bin\Debug\Discounts.pdb
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\obj\Debug\Discounts.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\obj\Debug\Discounts.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\obj\Debug\Discounts.exe
+E:\CS\C#Y1Programming\Worksheet 4 - Case Statements\Discounts\Discounts\obj\Debug\Discounts.pdb

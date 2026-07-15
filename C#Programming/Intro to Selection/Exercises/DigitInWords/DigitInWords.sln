@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitInWords", "DigitInWords\DigitInWords.csproj", "{780B18CE-877F-4CB0-98B9-989E13F248E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780B18CE-877F-4CB0-98B9-989E13F248E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780B18CE-877F-4CB0-98B9-989E13F248E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780B18CE-877F-4CB0-98B9-989E13F248E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780B18CE-877F-4CB0-98B9-989E13F248E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41FAB63-498A-48A5-B093-2A133869DC2C}
+	EndGlobalSection
+EndGlobal

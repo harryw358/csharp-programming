@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\bin\Debug\PersonRecord.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\bin\Debug\PersonRecord.exe
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\bin\Debug\PersonRecord.pdb
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\obj\Debug\PersonRecord.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\obj\Debug\PersonRecord.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\obj\Debug\PersonRecord.exe
+D:\CS\C#Y1Programming\Intro to External Files\CSV Files - Independent Study\PersonRecord\PersonRecord\PersonRecord\obj\Debug\PersonRecord.pdb

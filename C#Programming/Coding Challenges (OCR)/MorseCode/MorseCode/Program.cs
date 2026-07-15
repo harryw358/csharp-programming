@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MorseCode
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Dictionary<string, string> conversionTable = new Dictionary<string, string>()
+            {
+                { "a", "._" },
+                { "b", "_..." },
+                { "c", "_._." },
+                { "d", "_.." },
+                { "e", "." },
+                { "f", ".._." },
+                { "g", "__." },
+                { "h", "...." },
+                { "i", ".." },
+                { "j", ".___" },
+                { "k", "_._" },
+                { "l", "._.." },
+                { "m", "__" },
+                { "n", "_." },
+                { "o", "___" },
+                { "p", ".__." },
+                { "q", "__._" },
+                { "r", "._." },
+                { "s", "..." },
+                { "t", "_" },
+                { "u", ".._" },
+                { "v", "..._" },
+                { "w", ".__" },
+                { "x", "_.._" },
+                { "y", "_.__" },
+                { "z", "__.." },
+                { "1", ".____" },
+                { "2", "..___" },
+                { "3", "...__" },
+                { "4", "...._" },
+                { "5", "....." },
+                { "6", "_...." },
+                { "7", "__..." },
+                { "8", "___.." },
+                { "9", "____." },
+                { "0", "_____" },
+                { " ", "/" },
+            };
+
+            Console.Write("Enter a string: ");
+            foreach(char c in Console.ReadLine())
+            {
+
+                Console.Write(conversionTable[c.ToString()] + " ");
+            }
+            Console.ReadKey();
+        }
+    }
+}

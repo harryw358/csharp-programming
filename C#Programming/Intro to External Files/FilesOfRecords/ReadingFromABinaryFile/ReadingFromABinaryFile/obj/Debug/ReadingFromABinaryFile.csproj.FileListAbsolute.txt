@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\bin\Debug\ReadingFromABinaryFile.exe.config
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\bin\Debug\ReadingFromABinaryFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\bin\Debug\ReadingFromABinaryFile.pdb
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\obj\Debug\ReadingFromABinaryFile.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\obj\Debug\ReadingFromABinaryFile.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\obj\Debug\ReadingFromABinaryFile.exe
+D:\CS\C#Y1Programming\Intro to External Files\FilesOfRecords\ReadingFromABinaryFile\ReadingFromABinaryFile\obj\Debug\ReadingFromABinaryFile.pdb

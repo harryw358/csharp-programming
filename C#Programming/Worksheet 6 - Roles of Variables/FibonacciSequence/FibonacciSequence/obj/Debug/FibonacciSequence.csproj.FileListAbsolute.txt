@@ -1,0 +1,7 @@
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+E:\CS\C#Y1Programming\Worksheet 6 - Roles of Variables\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.pdb

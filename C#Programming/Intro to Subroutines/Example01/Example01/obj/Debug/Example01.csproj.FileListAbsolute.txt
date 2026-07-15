@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\bin\Debug\Example01.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\bin\Debug\Example01.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\bin\Debug\Example01.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\obj\Debug\Example01.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\obj\Debug\Example01.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Example01\Example01\obj\Debug\Example01.pdb

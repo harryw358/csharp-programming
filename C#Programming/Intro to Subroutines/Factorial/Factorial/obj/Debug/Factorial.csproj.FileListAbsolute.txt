@@ -1,0 +1,6 @@
+D:\CS\C#Y1Programming\Intro to Subroutines\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\CS\C#Y1Programming\Intro to Subroutines\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\CS\C#Y1Programming\Intro to Subroutines\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Intro to Subroutines\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\CS\C#Y1Programming\Intro to Subroutines\Factorial\Factorial\obj\Debug\Factorial.pdb

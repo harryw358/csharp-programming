@@ -1,0 +1,7 @@
+D:\CS\Mock\Prog1\Prog1\Prog1\bin\Debug\Prog1.exe.config
+D:\CS\Mock\Prog1\Prog1\Prog1\bin\Debug\Prog1.exe
+D:\CS\Mock\Prog1\Prog1\Prog1\bin\Debug\Prog1.pdb
+D:\CS\Mock\Prog1\Prog1\Prog1\obj\Debug\Prog1.csprojAssemblyReference.cache
+D:\CS\Mock\Prog1\Prog1\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+D:\CS\Mock\Prog1\Prog1\Prog1\obj\Debug\Prog1.exe
+D:\CS\Mock\Prog1\Prog1\Prog1\obj\Debug\Prog1.pdb

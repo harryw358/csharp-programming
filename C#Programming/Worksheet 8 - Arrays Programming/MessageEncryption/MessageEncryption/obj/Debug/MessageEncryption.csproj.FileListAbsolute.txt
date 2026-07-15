@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.exe.config
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.exe
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.pdb
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.exe
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.pdb
+D:\CS\C#Y1Programming\Worksheet 8 - Arrays Programming\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csprojAssemblyReference.cache

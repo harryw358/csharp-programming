@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\bin\Debug\ProgramString2.exe.config
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\bin\Debug\ProgramString2.exe
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\bin\Debug\ProgramString2.pdb
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\obj\Debug\ProgramString2.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\obj\Debug\ProgramString2.exe
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\obj\Debug\ProgramString2.pdb
+D:\CS\C#Y1Programming\String Handling\Exercise1\ProgramString2\ProgramString2\obj\Debug\ProgramString2.csproj.AssemblyReference.cache

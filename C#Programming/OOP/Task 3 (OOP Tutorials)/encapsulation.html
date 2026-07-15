@@ -1,0 +1,293 @@
+<html> 
+<head> 
+	<title>Introduction to Object Oriented Programming (C#)</title>
+	<script src="lightbox/js/jquery-1.10.2.min.js"></script>
+	<script src="lightbox/js/lightbox-2.6.min.js"></script>
+	
+	<link href="style.css" rel="stylesheet" />
+	<link href="lightbox/css/lightbox.css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Comfortaa:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Sintony:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<!-- .container start -->
+<div class="container">
+	
+	<!-- .banner start -->
+	<div class="banner">
+		<h1>Introduction to Object Oriented Programming<br /><span style="color:#FFF">C# Edition</span></h1>
+	<ul id="nav">		
+		<li><a href="index.html">1. OOP Fundamentals</a></li>
+		<li><a href="encapsulation.html" class="selected">2. Encapsulation</a></li>
+		<li><a href="inheritance-abstract-methods.html">3. Inheritance & Abstract Methods</a></li>
+		<li><a href="polymorphism.html">4. Polymorphism</a></li>
+		<li class="end"><a href="class-relationships.html">5. Class Relationships</a></li>		
+		<li><a href="projects.html">Programming Projects</a></li>		
+		<li class="end"><a href="glossary.html">Glossary of Terms</a></li>
+
+
+	</ul>
+	</div>
+	
+	<!-- .banner end -->	
+
+	
+	<!-- .topic_header start -->
+	<div class="topic_header">
+	<table style="background-color:#ccf2ff"><tr><td><h1><strong>2. Encapsulation</strong></h1></td></tr></table>
+		
+	</div>
+	<!-- .topic_header end -->
+	
+
+
+	
+	<!-- .topic_info start -->		
+	<div class="topic_info">
+	
+	<div class="quicklinks">Jump to: <a href="#2-1">Encapsulation in OOP</a> | <a href="#2-2">Private attributes and methods</a> | <a href="#2-3">Questions</a> | <a href="#2-4">Task 2</a></div>
+	
+	<!-- START specTable -->
+
+	<table class="specTable">		
+		<th class="specTableHeader">In this chapter you will learn:</th>
+		<tr><td>
+			<ul style="list-type:square">
+				<li>What encapsulation is</li>
+				<li>Why encapsulation is used</li>
+				<li>How to use private and protected attributes and methods</li>
+				<li>How to properly encapsulate a program</li>
+			</ul>
+		</td></tr>
+	</table>	
+
+<!-- END specTable-->
+	
+
+<a name="2-1"><h1>Encapsulation in object-oriented programming</h1></a>
+	
+		<p>As mentioned in Chapter 1, <strong>encapsulation</strong> is the idea of grouping data and subroutines to make a program easier to work on and understand. In object-oriented programming, encapsulation is achieved by using classes. A class should only contain the attributes and methods that it needs, and none of the logic of one class should depend on the internal processing in another class.</p>
+		<p>Imagine a company has a system that stores various information about different employees. If the system does not use encapsulation, any data can be used or altered in any part of the program. This is an issue for two reasons:</p>
+		<ol>
+		<li>If any errors occur it will be much harder to identify the source of the error, because it could originate from anywhere. In a properly encapsulated program, any errors will originate either from the part of the program that isn&rsquo;t working correctly, or from an error in how different parts of the program interact with each other.</li>
+		<li>It means that some parts of the system will have access to attributes and methods that they shouldn&rsquo;t have access to. In the example of a company&rsquo;s employee information system, it would make sense for the employee to be able to update some of their own records (such as their name or bank details), but they shouldn&rsquo;t have access to change other information (such as their salary) or be able to see certain information about other employees (such as their addresses).</li>
+		</ol>
+
+	
+<a name="2-2"><h1>Private attributes and methods</h1>
+		
+		
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="14">
+class Account
+	private accountPassword //This attribute is private
+	...
+	public function checkPassword(password) //This method is public
+	...
+endclass
+
+class Bank	
+	private accounts //This attribute is private
+	...
+	public procedure withdraw(number) //This method is public
+	...
+endclass
+</textarea></div>
+
+		<p>Take the above program based on Task 1. Notice how <strong>private</strong> and <strong>public</strong> keywords are used here. If an attribute or method is private, it can only be accessed from within the class. If an attribute or method is public, it can be used by other classes. In Task 1, the attribute accountPassword in the Account class is made private so that the Bank class cannot see passwords which it shouldn’t have access to. Instead, the Bank class must use the public method checkPassword to check whether a user has entered their password correctly. This is useful for security purposes (in a real-world system, the more a password is shared across the system, the more vulnerable it is to being stolen) and for encapsulating the program (the Bank class doesn’t need to know what the password is, it only needs to be able to check that a password is correct, so it shouldn’t have access to that data). </p>
+		
+	
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="9">
+class Account
+	public profileImage
+	public name
+	private age
+	public birthday
+	public city
+	private work
+	...
+</textarea></div>
+
+<center><img src="images/2-1.png" style="border:none; margin: 0">	</center>
+
+
+<center><p><small>Private attributes can be hidden from other parts of the system. <br />There are many situations where you may want to hide some of the data being stored about a particular object.</small></center>
+
+<p>When an attribute from another class is needed, instead of making that attribute public, you can create a public method that returns the value of the attribute. Similarly, to change the value of an attribute, you can create a public method to change its value rather than directly altering it. Methods that return the value of a private attribute are known as <strong>accessors </strong>(or 'getters'), and methods that alter the value of a private attribute are known as <strong>mutators </strong>(or 'setters'). These may at first appear unnecessary, but can be useful if you ever want to change the functionality of the class.</p>
+
+<p>For example, imagine you have the following code:</p>		
+		
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="14">
+class Clock
+	public currentTime //This attribute is public
+	...
+endclass
+
+class Display()
+	clock = new Clock()
+	...
+	public procedure showTime()
+		print(clock.currentTime)//currentTime is public 
+					//so can be called in Display
+	endprocedure
+endclass
+</textarea></div>
+
+<p>The Display class directly accesses the clock’s currentTime attribute to display the time. This works fine, but if you wanted to make a change to how the clock’s time is displayed (e.g. by making it a 12-hour clock instead of a 24-hour clock, or changing whether seconds or milliseconds are displayed) and the Display class referred to currentTime in multiple places, then formatting or other checks would need to be added in multiple places throughout the Display class, which could mean changing a lot of code. The program could be instead be written as:	</p>
+
+<div class="context" style="background:navy"><h3 style="color:#FFF;margin-top:0;">Pseudocode</h3><textarea rows="16">
+class Clock
+	private currentTime //currentTime is made private
+	...
+	public function getTime() //This public method gives access to currentTime
+		return this.currentTime
+	endfunction
+endclass
+
+class Display()
+	clock = new Clock()
+	...
+	public procedure showTime()
+		print(clock.getTime()) //The public method is called in Display
+	endprocedure
+endclass
+</textarea></div>
+
+<p>With this version of the program, the change could be made to the getTime accessor so that the Display class does not need to be updated. Accessors and mutators should not just be used to make a private attribute public, but to hide information from other classes or limit the ability of other classes to alter the attribute.</p>
+
+		
+<div class="context">
+
+<h3 style="color:gold">C# Note:</h3>
+
+<p>In C#, methods and attributes are made private by default, so:</p>
+
+<textarea class="python" rows="8">
+public class Class {
+	int publicAttribute;
+
+	void setAttribute(int value) {
+		this.publicAttribute = value;
+	}
+}
+</textarea>
+
+<p>is equivalent to:</p>
+
+<textarea class="python" rows="8">
+public class Class {
+	private int publicAttribute;
+
+	private void setAttribute(int value) {
+		this.publicAttribute = value;
+	}
+}
+</textarea>
+
+<p>while it is therefore not necessary to declare an attribute or method as private, it is still good practice to do so to make it clearer how you intend that attribute or method to be used.</p>
+</div>
+
+
+
+<div class="activity">	
+
+	<a name="2-3"><h1><strong>Questions</strong></h1>	
+	
+	<table><tr>
+	<th>Q1</th>
+	<td>Define the term encapsulation. (1 mark)</td>
+	</tr>
+	
+	<tr>
+	<th>Q2</th>
+	<td>Explain the difference between a private attribute or method and a public attribute or method. (2 marks)</td>
+	</tr>
+	
+	<tr>
+	<th>Q3</th>
+	<td>Explain one reason why an attribute may be made private. (1 mark)</td>
+	</tr>
+	
+	<tr>
+	<th>Q4</th>
+	<td>Define the terms accessor and mutator. (2 marks)</td>
+	</tr>
+	
+	<tr>
+	<th>Q5</th>
+	<td>Identify when accessors and mutators should be used. (2 marks)</td>	
+	</tr>
+	
+	<tr>
+	<th>Q6</th>
+	<td>Explain why you might make an attribute public instead of using accessors and mutators.	(2 marks)</td>	
+	</tr>
+
+	</table>	
+	
+	</div>
+	
+	<div class="activity" style="background:#097392">	
+	
+	<a name="2-4"><h1 style="color:#FFF000"><strong>Task 2</strong></h1>	
+
+	<table><tr><td>
+	
+	<p><p>This activity uses the following files:
+	
+	<table>
+	<tr><th>Non-encapsulated</th><th>Encapsulated</th></tr>
+	<tr>
+		<td>
+			<ul>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Program.cs" target="_blank">Program.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Cleaner.cs" target="_blank">Cleaner.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Customer.cs" target="_blank">Customer.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Hotel.cs" target="_blank">Hotel.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Manager.cs" target="_blank">Manager.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Receptionist.cs" target="_blank">Receptionist.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Encapsulated Skeleton/Room.cs" target="_blank">Room.cs</a></strong></li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Program.cs" target="_blank">Program.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Cleaner.cs" target="_blank">Cleaner.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Customer.cs" target="_blank">Customer.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Hotel.cs" target="_blank">Hotel.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Manager.cs" target="_blank">Manager.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Receptionist.cs" target="_blank">Receptionist.cs</a></strong></li>
+			<li><strong><a href="code/TaskCode/Task2/Non-Encapsulated/Room.cs" target="_blank">Room.cs</a></strong></li>
+			</ul>
+		</td>
+	</tr>
+	</table>
+	
+	<p>The Task 2 skeleton code is a system that manages a hotel and its staff. Customers are checked in and out of their rooms, and leave feedback depending on how their stay was (if they are successfully checked in or their room is clean they become happier with their stay, and if their room is overbooked or unclean they become less happy with their stay).</p>
+	<p>Recreate the Task 2 non-encapsulated code so that it keeps the same functionality but is properly encapsulated. There should be classes for Hotel, Room, Customer, Manager, Receptionist and Cleaner. The manager should be responsible for processing feedback; the cleaner should be responsible for cleaning rooms; the receptionist should be responsible for checking customers in and out of their rooms. All attributes should be made private (although you may add any methods that you think are helpful). </p>
+	<p>You may use the provided Task 2 encapsulated skeleton code, which provides a converted main method and constructors for each class that does not need to be altered.	(15 marks)</p>
+	</td></tr></table>	
+	
+	</div>	
+	
+<!--activity end-->
+		
+
+
+	
+	
+	<div class="footer">&copy; <a href="http://zigzageducation.co.uk">ZigZag Education 2019</a></div>
+		
+	
+	<!-- .topic_info end -->		
+
+	</div>
+<!-- .container end -->
+
+
+</body>
+</html>
+
+

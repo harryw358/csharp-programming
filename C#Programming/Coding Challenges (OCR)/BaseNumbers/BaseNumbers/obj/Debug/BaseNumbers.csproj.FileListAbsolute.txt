@@ -1,0 +1,7 @@
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\bin\Debug\BaseNumbers.exe.config
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\bin\Debug\BaseNumbers.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\bin\Debug\BaseNumbers.pdb
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\obj\Debug\BaseNumbers.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\obj\Debug\BaseNumbers.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\obj\Debug\BaseNumbers.exe
+D:\CS\C#Y1Programming\Coding Challenges (OCR)\BaseNumbers\BaseNumbers\obj\Debug\BaseNumbers.pdb

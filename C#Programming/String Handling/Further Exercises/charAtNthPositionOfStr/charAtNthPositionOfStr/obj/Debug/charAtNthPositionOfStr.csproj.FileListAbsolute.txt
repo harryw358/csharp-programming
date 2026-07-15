@@ -1,0 +1,14 @@
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\bin\Debug\charAtNthPositionOfStr.exe.config
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\bin\Debug\charAtNthPositionOfStr.exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\bin\Debug\charAtNthPositionOfStr.pdb
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.csproj.AssemblyReference.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.csproj.CoreCompileInputs.cache
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.exe
+D:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.pdb
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\bin\Debug\charAtNthPositionOfStr.exe.config
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\bin\Debug\charAtNthPositionOfStr.exe
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\bin\Debug\charAtNthPositionOfStr.pdb
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.csproj.AssemblyReference.cache
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.csproj.CoreCompileInputs.cache
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.exe
+E:\CS\C#Y1Programming\String Handling\Further Exercises\charAtNthPositionOfStr\charAtNthPositionOfStr\obj\Debug\charAtNthPositionOfStr.pdb
